@@ -47,13 +47,13 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
 
 ---
 
-### [Projet 6 – Nettoyage & gestion des stocks (BottleNeck)](#)  
+### [Projet 6 – Optimisez la gestion & nettoyez les données du stock d'une boutique](#)  
 📌 Nettoyage et rapprochement ERP + site e-commerce, analyses CA/marge, corrélations.  
 🎯 **Compétences :** Python/R, nettoyage avancé, analyses univariées/multivariées.  
 
 ---
 
-### [Projet 7 – Tableau de bord Power BI (Sanitoral)](#)  
+### [Projet 7 – Tableau de bord Power BI-visualiser l'avancement de projets](#)  
 📌 Construction d’un tableau de bord interactif pour le suivi de projets.  
 🎯 **Compétences :** Power Query, DAX, user stories, storytelling visuel.  
 
@@ -65,13 +65,13 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
 
 ---
 
-### [Projet 9 – Optimisation & industrialisation BI (BottleNeck 2)](#)  
+### [Projet 9 – Améliorez les performances de l'entreprise](#)  
 📌 Workflow **Knime** + Power BI Services, recommandations business.  
 🎯 **Compétences :** ETL, automatisation, modèle sémantique Power BI, KPI stratégiques.  
 
 ---
 
-### [Projet 10 – Étude marché Jeux Vidéo (AAA – UOI Games)](#)  
+### [Projet 10 – Analysez une demande business identifiez les segments du marché les plus pertinents pour votre client](#)  
 📌 Analyse SWOT/PESTEL, tendances, enquête utilisateurs, recommandations de segment.  
 🎯 **Compétences :** analyse stratégique, data storytelling, recommandations business.  
 
@@ -89,9 +89,8 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
 ---
 
 ## 📬 Contact
-💼 LinkedIn : [Votre Profil](#)  
-📧 Email : [Votre Email](#)  
-📊 Kaggle : [Votre Profil](#)  
+💼 LinkedIn : [[Cliquez](https://www.linkedin.com/in/julien-liodenot/)](#)  
+📧 Email : [julien.liodenot@dataexec.fr](#)  
 
 Merci d’avoir consulté mon portfolio ! 🙌  
 N’hésitez pas à me contacter pour échanger autour de la **data**, de la **BI** ou de futures **collaborations**.
