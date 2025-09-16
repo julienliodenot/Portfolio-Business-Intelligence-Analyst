@@ -89,8 +89,11 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
 ---
 
 ## Video de formation à Tableau Public
-<a href="https://www.loom.com/share/b39706652779498380ec726a328f247a">
-  <img src="./video_miniature.jpg" alt="Voir la vidéo" width="600"/>
+
+Cliquez ci dessous pour acceder à la video de formation à Tableau Public sur le site Loom.
+Si besoin la video au format mp4 est également disponible dans le repertoire "Livrables"
+<a href="https://www.loom.com/share/e95503ef71d74ad8a8db1827e6f834ea">
+  <img src="./Livrables/video_miniature.jpg" alt="Voir la vidéo" width="600"/>
 </a>
 
 
