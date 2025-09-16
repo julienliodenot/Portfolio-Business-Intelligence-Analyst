@@ -88,6 +88,11 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
 
 ---
 
+## Video de formation à Tableau Public
+[![Voir la vidéo](https://cdn.loom.com/sessions/thumbnails/b39706652779498380ec726a328f247a-with-play.gif)](https://www.loom.com/share/b39706652779498380ec726a328f247a)
+
+
+
 ## 📬 Contact
 💼 LinkedIn : [[Cliquez](https://www.linkedin.com/in/julien-liodenot/)](#)  
 📧 Email : [julien.liodenot@dataexec.fr](#)  
