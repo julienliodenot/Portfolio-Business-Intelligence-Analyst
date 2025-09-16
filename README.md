@@ -89,8 +89,9 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
 ---
 
 ## Video de formation à Tableau Public
-[![Voir la vidéo](https://cdn.loom.com/sessions/thumbnails/b39706652779498380ec726a328f247a-with-play.gif)](https://www.loom.com/share/b39706652779498380ec726a328f247a)
-
+<a href="https://www.loom.com/share/b39706652779498380ec726a328f247a">
+  <img src="./video_miniature.jpg" alt="Voir la vidéo" width="600"/>
+</a>
 
 
 ## 📬 Contact
