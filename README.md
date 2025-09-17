@@ -97,7 +97,7 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
         <h3>🎥 Vidéo de formation à Tableau Public</h3>
         <p>Cliquez ci-dessous pour accéder à la vidéo sur Loom.<br/>
         (Version MP4 également disponible dans le répertoire <code>Livrables</code>.)</p>
-        <a href="https://www.loom.com/share/3bc89edc0bf74f6690a4ee4284048495" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.loom.com/share/3bc89edc0bf74f6690a4ee4284048495">
           <img src="./Livrables/video_miniature.jpg" alt="Voir la vidéo" width="300"/>
         </a>
         <details>
@@ -120,7 +120,7 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
         <h3>📊 Dashboards interactifs</h3>
         <p>Cliquez ci-dessous pour voir les deux dashboards publiés sur Tableau Public.<br/>
         (Copies également disponibles dans le répertoire <code>Livrables</code>.)</p>
-        <a href="https://public.tableau.com/views/Profilveille_V2/Prsentation?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">
+        <a href="https://public.tableau.com/views/Profilveille_V2/Prsentation?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
           <img src="./Livrables/dashboards_miniature.jpg" alt="Voir les Dashboards" width="300"/>
         </a>
       </td>
