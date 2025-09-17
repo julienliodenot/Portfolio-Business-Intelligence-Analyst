@@ -1,4 +1,4 @@
-Projet 7 – Tableau de bord de pilotage de projets (Sanitoral)
+# Projet 7 – Tableau de bord de pilotage de projets (Sanitoral)
 <div align="center"> <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=300&fit=crop" alt="Project Management Dashboard" /> </div>
 Contexte et objectif
 
