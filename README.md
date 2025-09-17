@@ -101,20 +101,21 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
           <img src="./Livrables/video_miniature.jpg" alt="Voir la vidéo" width="300"/>
         </a>
         <details>
-          <summary>📄 Détails de la vidéo</summary>
-
-          Dans cette vidéo (22 min), je vous montre pas à pas comment créer deux graphiques avancés avec **Tableau Public** :
-          - **Un graphique en donut** (avec champ calculé pour normalisation à 100 %)
-          - **Un graphique de compétences (soft skills)** avec icônes, texte et barres de progression  
-          
-          Cette démonstration couvre :
-          - Le chargement et la préparation des données
-          - La construction des graphiques étape par étape
-          - Les ajustements visuels pour un rendu clair et esthétique
-          - Les bonnes pratiques de mise en page dans un tableau de bord
+          <summary>Détails de la vidéo</summary>
+          <p>Dans cette vidéo (22 min), je vous montre pas à pas comment créer deux graphiques avancés avec <strong>Tableau Public</strong> :</p>
+          <ul>
+            <li><strong>Un graphique en donut</strong> (avec champ calculé pour normalisation à 100 %)</li>
+            <li><strong>Un graphique de compétences (soft skills)</strong> avec icônes, texte et barres de progression</li>
+          </ul>
+          <p>Cette démonstration couvre :</p>
+          <ul>
+            <li>Le chargement et la préparation des données</li>
+            <li>La construction des graphiques étape par étape</li>
+            <li>Les ajustements visuels pour un rendu clair et esthétique</li>
+            <li>Les bonnes pratiques de mise en page dans un tableau de bord</li>
+          </ul>
         </details>
       </td>
-
       <td align="center" width="50%">
         <h3>📊 Dashboards interactifs</h3>
         <p>Cliquez ci-dessous pour voir les deux dashboards publiés sur Tableau Public.<br/>
