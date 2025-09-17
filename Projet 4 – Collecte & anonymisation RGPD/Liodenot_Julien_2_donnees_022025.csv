@@ -1,0 +1,1159 @@
+id_client;date_demande;sexe;Tranche d'age;Enfant conduite accompagnée;Enfants;Tranche Revenus;usage_vehicule;type_vehicule;Age du vehicule;type_conduite;Tranche Tarif;points_perdus
+1;25/02/2022;F;[18-28];oui;oui;[100k-149k];Commercial;Sports Car;[Moins de 10 ans];Urban;[300-599];0
+2;24/05/2022;F;[+65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];2
+3;24/01/2022;F;[29-45];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Rural;[Moins de 300];0
+4;20/04/2022;F;Mineur;oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];3
+5;23/03/2022;M;[+65];oui;oui;[N/A];Commercial;Panel Truck;[N/A];Urban;[600-799];2
+6;23/03/2022;F;[29-45];oui;oui;[50k-99k];Private;SUV;[N/A];Rural;[300-599];2
+7;13/03/2022;F;[+65];oui;oui;[100k-149k];Commercial;Minivan;[Moins de 10 ans];Rural;[Moins de 300];0
+8;09/03/2022;M;[+65];oui;oui;[50k-99k];Private;SUV;[10-20];Urban;[300-599];1
+9;29/01/2022;M;[+65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[300-599];0
+10;26/03/2022;F;[50-65];oui;oui;[N/A];Commercial;Panel Truck;[10-20];Urban;[300-599];1
+11;26/05/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[10-20];Urban;[Moins de 300];0
+12;27/01/2022;M;Mineur;oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+13;08/05/2022;F;[+65];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];0
+14;02/05/2022;M;Mineur;oui;oui;[-50k];Commercial;Van;[Moins de 10 ans];Rural;[300-599];5
+15;15/04/2022;M;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+16;11/05/2022;M;[+65];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+17;12/04/2022;F;[50-65];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[300-599];0
+18;04/03/2022;F;[+65];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];1
+19;05/02/2022;F;[+65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+20;25/04/2022;F;[+65];oui;oui;[-50k];Private;SUV;[10-20];Urban;[Moins de 300];0
+21;20/03/2022;M;[29-45];oui;oui;[50k-99k];Private;Minivan;[N/A];Rural;[Moins de 300];0
+22;27/03/2022;M;[+65];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[300-599];1
+23;16/05/2022;F;[18-28];oui;oui;[N/A];Commercial;Van;[Moins de 10 ans];Urban;[300-599];0
+24;06/02/2022;F;[+65];oui;oui;[-50k];Commercial;Sports Car;[Moins de 10 ans];Urban;[300-599];5
+25;27/04/2022;M;[18-28];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];1
+26;13/04/2022;M;[+65];oui;oui;[N/A];Private;Minivan;[N/A];Rural;[Moins de 300];1
+27;22/03/2022;F;[18-28];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Rural;[Moins de 300];0
+28;22/04/2022;F;[29-45];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];5
+29;23/03/2022;F;[50-65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[800+];0
+30;12/02/2022;F;[18-28];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[300-599];0
+31;14/01/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+32;09/04/2022;M;[29-45];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Rural;[300-599];6
+33;23/03/2022;F;[+65];oui;oui;[100k-149k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];3
+34;04/02/2022;M;Mineur;oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];2
+35;05/02/2022;M;[29-45];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];0
+36;08/02/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+37;06/02/2022;F;[50-65];oui;oui;[-50k];Commercial;Sports Car;[N/A];Urban;[Moins de 300];0
+38;09/02/2022;F;Mineur;oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];2
+39;26/05/2022;F;[50-65];oui;oui;[+150k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+40;04/03/2022;M;[29-45];oui;oui;[50k-99k];Private;SUV;[N/A];Rural;[300-599];1
+41;31/05/2022;F;[18-28];oui;oui;[N/A];Private;Sports Car;[10-20];Urban;[Moins de 300];0
+42;30/04/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];5
+43;20/03/2022;M;[50-65];oui;oui;[-50k];Commercial;Pickup;[10-20];Urban;[Moins de 300];0
+44;02/04/2022;F;[50-65];oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[300-599];0
+45;02/01/2022;M;[50-65];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[300-599];0
+46;24/02/2022;F;[+65];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];4
+47;05/04/2022;M;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];1
+48;21/02/2022;F;[29-45];oui;oui;[100k-149k];Commercial;Panel Truck;[N/A];Urban;[300-599];1
+49;21/03/2022;M;[+65];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];0
+50;03/04/2022;F;[29-45];oui;oui;[50k-99k];Private;Van;[Moins de 10 ans];Rural;[Moins de 300];1
+51;28/03/2022;F;[18-28];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];7
+52;21/03/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];1
+53;23/05/2022;M;[18-28];oui;oui;[100k-149k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+54;03/05/2022;F;[29-45];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];0
+55;11/04/2022;F;Mineur;oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Rural;[Moins de 300];5
+56;05/01/2022;M;[50-65];oui;oui;[50k-99k];Private;Van;[N/A];Urban;[300-599];0
+57;14/05/2022;F;[50-65];oui;oui;[-50k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];4
+58;20/04/2022;M;[29-45];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];2
+59;22/01/2022;F;[+65];oui;oui;[-50k];Private;Van;[Moins de 10 ans];Urban;[Moins de 300];0
+60;26/04/2022;F;[29-45];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];1
+61;23/03/2022;F;[+65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+62;27/04/2022;F;[50-65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];0
+63;24/05/2022;F;[+65];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];0
+64;09/05/2022;F;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];0
+65;22/04/2022;F;Mineur;oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+66;17/05/2022;M;[50-65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];5
+67;01/05/2022;M;[+65];oui;oui;[50k-99k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];0
+68;29/05/2022;M;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[Moins de 300];3
+69;04/04/2022;M;[+65];oui;oui;[-50k];Private;SUV;[N/A];Urban;[Moins de 300];2
+70;27/01/2022;F;[18-28];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];1
+71;13/01/2022;F;Mineur;oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+72;08/01/2022;M;[29-45];oui;oui;[+150k];Private;SUV;[N/A];Urban;[Moins de 300];2
+73;05/04/2022;M;Mineur;oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];2
+74;14/02/2022;F;[+65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];2
+75;14/01/2022;M;[+65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];0
+76;20/04/2022;F;[29-45];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[300-599];1
+77;10/05/2022;F;[+65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];5
+78;24/01/2022;M;[50-65];oui;oui;[-50k];Commercial;Panel Truck;[N/A];Urban;[300-599];4
+79;01/02/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];4
+80;20/04/2022;M;[50-65];oui;oui;[100k-149k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];1
+81;02/01/2022;M;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Rural;[Moins de 300];0
+82;18/02/2022;M;[50-65];oui;oui;[100k-149k];Commercial;Van;[Moins de 10 ans];Rural;[Moins de 300];0
+83;27/04/2022;F;[50-65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+84;09/05/2022;M;[50-65];oui;oui;[-50k];Private;Sports Car;[N/A];Rural;[Moins de 300];1
+85;14/01/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];2
+86;30/03/2022;M;[29-45];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+87;25/01/2022;M;[50-65];oui;oui;[N/A];Private;Minivan;[N/A];Urban;[300-599];0
+88;28/05/2022;F;[18-28];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+89;12/02/2022;M;[50-65];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[300-599];0
+90;11/01/2022;M;[50-65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Rural;[Moins de 300];0
+91;15/04/2022;M;[+65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];3
+92;28/03/2022;F;Mineur;oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];1
+93;26/02/2022;F;Mineur;oui;oui;[50k-99k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];6
+94;17/01/2022;M;[50-65];oui;oui;[50k-99k];Private;Van;[Moins de 10 ans];Urban;[Moins de 300];0
+95;16/04/2022;F;[+65];oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[Moins de 300];4
+96;12/01/2022;F;[50-65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Rural;[300-599];1
+97;23/03/2022;M;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];7
+98;17/04/2022;F;[29-45];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+99;05/05/2022;M;[29-45];oui;oui;[50k-99k];Private;Van;[Moins de 10 ans];Urban;[300-599];1
+100;28/02/2022;M;[18-28];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];0
+101;12/02/2022;M;[+65];oui;oui;[-50k];Commercial;Pickup;[N/A];Urban;[300-599];2
+102;07/01/2022;F;[18-28];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+103;07/01/2022;M;[50-65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[300-599];6
+104;12/01/2022;M;Mineur;oui;oui;[+150k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];4
+105;24/05/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];1
+106;25/03/2022;M;[18-28];oui;oui;[N/A];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];0
+107;02/01/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+108;01/03/2022;M;[29-45];oui;oui;[50k-99k];Commercial;Minivan;[N/A];Rural;[300-599];1
+109;28/01/2022;F;[50-65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[Moins de 300];5
+110;29/04/2022;M;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+111;20/01/2022;M;[50-65];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+112;06/05/2022;M;[50-65];oui;oui;[100k-149k];Commercial;Minivan;[N/A];Urban;[Moins de 300];0
+113;14/03/2022;M;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+114;20/03/2022;F;[+65];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];2
+115;18/01/2022;F;[50-65];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[300-599];0
+116;23/01/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];0
+117;07/01/2022;F;[+65];oui;oui;[-50k];Private;Sports Car;[N/A];Rural;[Moins de 300];0
+118;02/01/2022;F;[50-65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];0
+119;23/05/2022;M;Mineur;oui;oui;[50k-99k];Commercial;Sports Car;[Moins de 10 ans];Urban;[300-599];2
+120;29/05/2022;M;Mineur;oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];0
+121;09/02/2022;M;[+65];oui;oui;[-50k];Private;SUV;[N/A];Rural;[300-599];0
+122;17/02/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];2
+123;06/05/2022;M;[+65];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[300-599];0
+124;25/01/2022;F;[50-65];oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[300-599];0
+125;01/01/2022;F;[29-45];oui;oui;[-50k];Private;Van;[Moins de 10 ans];Urban;[300-599];4
+126;02/04/2022;M;[29-45];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+127;14/04/2022;M;[+65];oui;oui;[100k-149k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];2
+128;07/03/2022;M;[18-28];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Rural;[Moins de 300];7
+129;04/04/2022;M;[18-28];oui;oui;[50k-99k];Commercial;Sports Car;[N/A];Urban;[300-599];1
+130;20/04/2022;M;[50-65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[Moins de 300];1
+131;25/02/2022;F;[+65];oui;oui;[-50k];Private;Sports Car;[N/A];Urban;[Moins de 300];0
+132;28/05/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[600-799];8
+133;18/03/2022;M;Mineur;oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+134;25/02/2022;M;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];3
+135;08/04/2022;F;Mineur;oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+136;01/05/2022;F;[+65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];0
+137;27/03/2022;M;Mineur;oui;oui;[-50k];Commercial;Van;[N/A];Urban;[300-599];2
+138;11/05/2022;M;[29-45];oui;oui;[100k-149k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];4
+139;31/05/2022;M;[50-65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];4
+140;24/04/2022;F;[29-45];oui;oui;[N/A];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];6
+141;06/03/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Sports Car;[Moins de 10 ans];Urban;[300-599];2
+142;18/02/2022;F;[50-65];oui;oui;[100k-149k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+143;05/01/2022;F;Mineur;oui;oui;[100k-149k];Private;Pickup;[N/A];Urban;[300-599];0
+144;19/02/2022;M;[+65];oui;oui;[-50k];Private;SUV;[N/A];Urban;[300-599];5
+145;21/05/2022;M;[+65];oui;oui;[-50k];Commercial;SUV;[N/A];Urban;[Moins de 300];7
+146;13/05/2022;M;[50-65];oui;oui;[-50k];Private;SUV;[N/A];Urban;[Moins de 300];2
+147;20/02/2022;M;[50-65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+148;16/04/2022;M;[29-45];oui;oui;[-50k];Private;SUV;[10-20];Rural;[Moins de 300];1
+149;03/03/2022;F;[+65];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];0
+150;26/02/2022;F;[+65];oui;oui;[50k-99k];Private;Minivan;[N/A];Rural;[Moins de 300];0
+151;19/02/2022;M;[+65];oui;oui;[-50k];Private;Minivan;[10-20];Urban;[300-599];0
+152;05/03/2022;F;[50-65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];2
+153;11/01/2022;F;[50-65];oui;oui;[N/A];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];3
+154;25/03/2022;M;[29-45];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];1
+155;22/02/2022;F;[+65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Rural;[Moins de 300];0
+156;14/01/2022;M;[+65];oui;oui;[100k-149k];Commercial;Van;[N/A];Urban;[300-599];0
+157;08/04/2022;F;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];5
+158;17/04/2022;M;[+65];oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[300-599];0
+159;14/05/2022;M;[+65];oui;oui;[100k-149k];Commercial;Minivan;[Moins de 10 ans];Rural;[300-599];0
+160;02/02/2022;M;[+65];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];6
+161;21/05/2022;M;[+65];oui;oui;[50k-99k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];0
+162;09/03/2022;M;[29-45];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[300-599];2
+163;27/02/2022;F;[50-65];oui;oui;[+150k];Private;Minivan;[N/A];Rural;[300-599];1
+164;03/04/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[300-599];0
+165;02/04/2022;F;[50-65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Rural;[Moins de 300];1
+166;08/04/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];1
+167;31/05/2022;F;[+65];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];0
+168;16/05/2022;F;[18-28];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];0
+169;22/04/2022;F;[50-65];oui;oui;[100k-149k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];1
+170;30/05/2022;F;[+65];oui;oui;[-50k];Commercial;SUV;[N/A];Urban;[300-599];2
+171;01/02/2022;M;[29-45];oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[Moins de 300];1
+172;31/05/2022;F;[29-45];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];2
+173;16/02/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Minivan;[N/A];Rural;[300-599];0
+174;21/05/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[20 ans+];Urban;[300-599];0
+175;26/04/2022;M;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];2
+176;14/01/2022;M;[+65];oui;oui;[100k-149k];Commercial;Pickup;[N/A];Urban;[Moins de 300];6
+177;16/02/2022;F;[50-65];oui;oui;[-50k];Commercial;Van;[N/A];Urban;[Moins de 300];0
+178;01/01/2022;M;[29-45];oui;oui;[N/A];Private;Sports Car;[N/A];Urban;[Moins de 300];0
+179;14/01/2022;M;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+180;10/05/2022;F;[50-65];oui;oui;[-50k];Commercial;Van;[Moins de 10 ans];Urban;[300-599];0
+181;02/05/2022;F;[+65];oui;oui;[50k-99k];Commercial;Pickup;[N/A];Urban;[Moins de 300];1
+182;10/02/2022;F;[18-28];oui;oui;[-50k];Commercial;Van;[Moins de 10 ans];Rural;[Moins de 300];1
+183;08/01/2022;M;[50-65];oui;oui;[+150k];Commercial;Panel Truck;[N/A];Rural;[300-599];0
+184;12/01/2022;F;[+65];oui;oui;[100k-149k];Private;Van;[10-20];Urban;[300-599];0
+185;27/05/2022;F;[+65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];1
+186;10/04/2022;M;[18-28];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];6
+187;23/03/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+188;24/05/2022;F;[18-28];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+189;05/01/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+190;17/05/2022;F;Mineur;oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];0
+191;30/05/2022;M;[29-45];oui;oui;[50k-99k];Commercial;Van;[N/A];Urban;[Moins de 300];5
+192;25/01/2022;M;Mineur;oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];3
+193;30/01/2022;F;[+65];oui;oui;[100k-149k];Private;Sports Car;[Moins de 10 ans];Rural;[300-599];0
+194;04/01/2022;F;[29-45];oui;oui;[50k-99k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[300-599];1
+195;11/02/2022;F;[50-65];oui;oui;[+150k];Private;SUV;[N/A];Urban;[300-599];0
+196;07/04/2022;F;[+65];oui;oui;[50k-99k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];3
+197;09/02/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];4
+198;27/04/2022;M;[+65];oui;oui;[100k-149k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];2
+199;25/05/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+200;10/02/2022;F;[+65];oui;oui;[-50k];Commercial;Minivan;[N/A];Rural;[Moins de 300];0
+201;14/03/2022;M;Mineur;oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];9
+202;11/05/2022;M;[+65];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];4
+203;09/04/2022;M;[50-65];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];0
+204;14/04/2022;F;[+65];oui;oui;[50k-99k];Commercial;SUV;[N/A];Rural;[300-599];2
+205;18/04/2022;M;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];3
+206;23/03/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+207;09/05/2022;M;[+65];oui;oui;[50k-99k];Commercial;Minivan;[N/A];Urban;[300-599];6
+208;04/02/2022;M;[50-65];oui;oui;[-50k];Private;Minivan;[N/A];Rural;[Moins de 300];0
+209;19/04/2022;M;[50-65];oui;oui;[-50k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[300-599];1
+210;03/04/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];0
+211;18/01/2022;F;[18-28];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Rural;[Moins de 300];1
+212;23/03/2022;F;[50-65];oui;oui;[100k-149k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];1
+213;02/05/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[N/A];Urban;[Moins de 300];1
+214;19/01/2022;F;[50-65];oui;oui;[-50k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];1
+215;15/02/2022;M;[50-65];oui;oui;[-50k];Commercial;Van;[N/A];Urban;[Moins de 300];5
+216;03/01/2022;M;[50-65];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[300-599];0
+217;27/03/2022;F;[50-65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];2
+218;02/04/2022;F;Mineur;oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[300-599];8
+219;30/04/2022;M;[50-65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];0
+220;07/04/2022;M;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];1
+221;22/01/2022;M;[+65];oui;oui;[100k-149k];Private;Sports Car;[N/A];Urban;[300-599];0
+222;07/05/2022;M;[+65];oui;oui;[N/A];Commercial;Pickup;[N/A];Rural;[300-599];0
+223;07/01/2022;F;[29-45];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];4
+224;05/01/2022;F;Mineur;oui;oui;[100k-149k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];5
+225;13/05/2022;F;[+65];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];0
+226;11/05/2022;M;[50-65];oui;oui;[100k-149k];Private;Minivan;[10-20];Urban;[Moins de 300];4
+227;29/03/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];3
+228;12/02/2022;M;[18-28];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];0
+229;18/03/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+230;25/01/2022;F;[+65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];5
+231;11/05/2022;F;[18-28];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];3
+232;04/05/2022;M;Mineur;oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+233;22/01/2022;F;[29-45];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];3
+234;06/01/2022;F;[29-45];oui;oui;[50k-99k];Commercial;SUV;[10-20];Urban;[Moins de 300];2
+235;11/04/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];2
+236;22/03/2022;M;[+65];oui;oui;[-50k];Private;Pickup;[N/A];Urban;[Moins de 300];0
+237;31/03/2022;F;[29-45];oui;oui;[+150k];Commercial;Panel Truck;[N/A];Urban;[300-599];0
+238;09/03/2022;F;[+65];oui;oui;[+150k];Private;SUV;[N/A];Urban;[Moins de 300];0
+239;07/05/2022;M;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];5
+240;24/02/2022;F;[+65];oui;oui;[50k-99k];Private;Minivan;[10-20];Urban;[300-599];3
+241;24/05/2022;F;[29-45];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+242;25/02/2022;M;[50-65];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+243;29/03/2022;F;[+65];oui;oui;[-50k];Commercial;Pickup;[N/A];Urban;[Moins de 300];0
+244;10/05/2022;F;[+65];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];6
+245;14/05/2022;M;Mineur;oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];3
+246;19/01/2022;F;[+65];oui;oui;[N/A];Private;Van;[N/A];Urban;[Moins de 300];3
+247;27/05/2022;M;[29-45];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];0
+248;13/01/2022;M;Mineur;oui;oui;[-50k];Commercial;Van;[Moins de 10 ans];Rural;[300-599];0
+249;08/04/2022;M;[29-45];oui;oui;[-50k];Private;Pickup;[10-20];Urban;[300-599];0
+250;26/04/2022;F;[29-45];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];2
+251;30/01/2022;M;[18-28];oui;oui;[100k-149k];Private;SUV;[20 ans+];Urban;[300-599];1
+252;18/05/2022;F;[29-45];oui;oui;[50k-99k];Commercial;SUV;[N/A];Rural;[Moins de 300];5
+253;27/01/2022;M;[50-65];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];3
+254;13/02/2022;F;[50-65];oui;oui;[100k-149k];Private;Van;[N/A];Urban;[Moins de 300];0
+255;26/04/2022;M;Mineur;oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+256;26/05/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Van;[N/A];Rural;[300-599];2
+257;06/02/2022;M;[50-65];oui;oui;[N/A];Private;Minivan;[N/A];Urban;[300-599];0
+258;05/02/2022;F;[18-28];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+259;26/03/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];0
+260;14/02/2022;F;[+65];oui;oui;[-50k];Commercial;Panel Truck;[10-20];Urban;[Moins de 300];4
+261;17/04/2022;F;Mineur;oui;oui;[50k-99k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[300-599];5
+262;12/02/2022;F;[+65];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];1
+263;20/03/2022;M;Mineur;oui;oui;[+150k];Commercial;Pickup;[N/A];Urban;[Moins de 300];0
+264;24/03/2022;M;Mineur;oui;oui;[50k-99k];Commercial;Van;[10-20];Urban;[Moins de 300];7
+265;28/05/2022;M;[+65];oui;oui;[-50k];Private;SUV;[N/A];Urban;[300-599];4
+266;27/04/2022;M;[50-65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];1
+267;28/01/2022;M;[50-65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Rural;[300-599];1
+268;21/03/2022;M;Mineur;oui;oui;[+150k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];4
+269;07/01/2022;F;[+65];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[300-599];0
+270;15/05/2022;F;[50-65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[300-599];4
+271;09/02/2022;F;[29-45];oui;oui;[-50k];Commercial;Sports Car;[N/A];Urban;[300-599];4
+272;04/02/2022;M;[+65];oui;oui;[+150k];Commercial;Pickup;[N/A];Urban;[Moins de 300];3
+273;30/04/2022;F;[29-45];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[300-599];3
+274;06/01/2022;M;[18-28];oui;oui;[50k-99k];Private;Van;[Moins de 10 ans];Urban;[Moins de 300];0
+275;12/04/2022;M;[50-65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];2
+276;25/04/2022;F;[+65];oui;oui;[50k-99k];Commercial;Panel Truck;[10-20];Urban;[Moins de 300];5
+277;01/01/2022;M;[29-45];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];4
+278;16/03/2022;M;[50-65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];5
+279;20/03/2022;M;[18-28];oui;oui;[100k-149k];Commercial;Panel Truck;[20 ans+];Urban;[300-599];3
+280;20/01/2022;M;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];3
+281;10/05/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];0
+282;10/01/2022;M;Mineur;oui;oui;[-50k];Private;Sports Car;[N/A];Urban;[300-599];5
+283;28/03/2022;F;Mineur;oui;oui;[50k-99k];Private;Sports Car;[N/A];Rural;[300-599];0
+284;13/04/2022;F;[29-45];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[300-599];4
+285;21/02/2022;F;[+65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+286;15/01/2022;F;[18-28];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];2
+287;25/01/2022;F;[29-45];oui;oui;[-50k];Commercial;Pickup;[10-20];Rural;[300-599];0
+288;18/01/2022;M;[+65];oui;oui;[N/A];Private;Minivan;[Moins de 10 ans];Urban;[300-599];2
+289;15/02/2022;F;[+65];oui;oui;[+150k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];0
+290;27/01/2022;M;[50-65];oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[300-599];1
+291;18/03/2022;M;[50-65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];4
+292;22/03/2022;M;[18-28];oui;oui;[50k-99k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];0
+293;07/03/2022;M;Mineur;oui;oui;[-50k];Private;Minivan;[N/A];Urban;[300-599];3
+294;18/05/2022;M;Mineur;oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[300-599];0
+295;01/05/2022;F;[18-28];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];1
+296;26/05/2022;F;[29-45];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[300-599];0
+297;23/04/2022;F;Mineur;oui;oui;[-50k];Private;SUV;[N/A];Urban;[300-599];6
+298;27/02/2022;F;[+65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[Moins de 300];1
+299;16/04/2022;F;[+65];oui;oui;[50k-99k];Private;Pickup;[10-20];Urban;[Moins de 300];2
+300;21/03/2022;F;[18-28];oui;oui;[-50k];Commercial;Panel Truck;[20 ans+];Urban;[Moins de 300];1
+301;10/05/2022;M;[29-45];oui;oui;[-50k];Commercial;Sports Car;[Moins de 10 ans];Rural;[Moins de 300];0
+302;11/04/2022;F;Mineur;oui;oui;[50k-99k];Private;Pickup;[10-20];Rural;[Moins de 300];0
+303;13/05/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+304;26/05/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];3
+305;03/03/2022;F;[+65];oui;oui;[-50k];Private;Pickup;[10-20];Rural;[Moins de 300];0
+306;26/01/2022;F;[+65];oui;oui;[+150k];Private;Sports Car;[N/A];Urban;[Moins de 300];0
+307;22/01/2022;M;Mineur;oui;oui;[100k-149k];Commercial;Pickup;[20 ans+];Urban;[Moins de 300];4
+308;25/05/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+309;03/02/2022;F;[18-28];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];0
+310;08/01/2022;F;[50-65];oui;oui;[100k-149k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];5
+311;02/05/2022;F;[29-45];oui;oui;[-50k];Commercial;Minivan;[N/A];Rural;[Moins de 300];0
+312;18/05/2022;M;[29-45];oui;oui;[-50k];Commercial;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];0
+313;25/05/2022;M;[29-45];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];0
+314;04/05/2022;M;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];2
+315;16/04/2022;F;[50-65];oui;oui;[100k-149k];Private;Pickup;[N/A];Urban;[300-599];2
+316;17/02/2022;M;[18-28];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+317;25/04/2022;M;[+65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[300-599];0
+318;24/03/2022;F;Mineur;oui;oui;[-50k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[Moins de 300];0
+319;24/01/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+320;03/03/2022;M;[+65];oui;oui;[N/A];Private;Pickup;[Moins de 10 ans];Rural;[300-599];0
+321;29/01/2022;F;[50-65];oui;oui;[100k-149k];Private;Van;[N/A];Urban;[300-599];0
+322;29/04/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];0
+323;11/01/2022;F;[+65];oui;oui;[50k-99k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];0
+324;11/05/2022;F;[29-45];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Rural;[Moins de 300];7
+325;07/05/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];6
+326;08/02/2022;M;Mineur;oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];3
+327;01/02/2022;F;[+65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];2
+328;10/03/2022;F;[50-65];oui;oui;[-50k];Commercial;SUV;[N/A];Urban;[300-599];3
+329;08/03/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];1
+330;27/05/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];1
+331;07/01/2022;F;[50-65];oui;oui;[50k-99k];Private;Pickup;[Moins de 10 ans];Urban;[600-799];2
+332;14/02/2022;M;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+333;21/02/2022;M;[29-45];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];0
+334;09/04/2022;M;[50-65];oui;oui;[-50k];Commercial;Van;[Moins de 10 ans];Rural;[Moins de 300];0
+335;25/03/2022;F;[+65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];5
+336;31/03/2022;F;[29-45];oui;oui;[50k-99k];Private;SUV;[20 ans+];Urban;[Moins de 300];0
+337;02/02/2022;M;[18-28];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];0
+338;08/05/2022;M;[50-65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];0
+339;04/04/2022;M;[29-45];oui;oui;[100k-149k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+340;11/01/2022;F;[29-45];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];3
+341;22/03/2022;M;[50-65];oui;oui;[100k-149k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[Moins de 300];4
+342;30/01/2022;M;[+65];oui;oui;[-50k];Commercial;Sports Car;[Moins de 10 ans];Urban;[300-599];0
+343;09/05/2022;M;[29-45];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];7
+344;11/04/2022;M;[+65];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];3
+345;10/01/2022;M;[50-65];oui;oui;[100k-149k];Commercial;Van;[Moins de 10 ans];Urban;[300-599];1
+346;26/03/2022;M;[50-65];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[300-599];2
+347;24/02/2022;F;[18-28];oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];10
+348;05/03/2022;F;[18-28];oui;oui;[100k-149k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[Moins de 300];3
+349;30/04/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[10-20];Urban;[Moins de 300];0
+350;26/01/2022;M;[29-45];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Rural;[300-599];0
+351;06/01/2022;F;[+65];oui;oui;[100k-149k];Private;Minivan;[10-20];Urban;[600-799];4
+352;09/01/2022;M;[29-45];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];0
+353;13/01/2022;M;[+65];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];1
+354;10/05/2022;F;[+65];oui;oui;[+150k];Private;Sports Car;[20 ans+];Urban;[300-599];8
+355;02/03/2022;M;[+65];oui;oui;[50k-99k];Commercial;Panel Truck;[Moins de 10 ans];Rural;[300-599];0
+356;30/01/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];2
+357;14/04/2022;F;[50-65];oui;oui;[N/A];Private;SUV;[20 ans+];Urban;[Moins de 300];0
+358;29/05/2022;M;[29-45];oui;oui;[100k-149k];Commercial;Panel Truck;[N/A];Urban;[300-599];0
+359;24/05/2022;M;Mineur;oui;oui;[-50k];Private;Pickup;[N/A];Urban;[Moins de 300];0
+360;27/01/2022;F;[50-65];oui;oui;[50k-99k];Commercial;Pickup;[N/A];Rural;[300-599];2
+361;07/05/2022;F;[50-65];oui;oui;[50k-99k];Private;Van;[N/A];Urban;[Moins de 300];3
+362;06/03/2022;M;[+65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Rural;[300-599];0
+363;06/05/2022;M;[18-28];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];1
+364;23/01/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];0
+365;21/01/2022;M;[18-28];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];3
+366;24/05/2022;M;[50-65];oui;oui;[N/A];Private;Minivan;[N/A];Urban;[300-599];1
+367;23/04/2022;F;[29-45];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[Moins de 300];4
+368;19/02/2022;F;[50-65];oui;oui;[100k-149k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+369;10/01/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[Moins de 300];0
+370;26/02/2022;M;Mineur;oui;oui;[-50k];Private;Sports Car;[N/A];Urban;[300-599];0
+371;03/01/2022;F;[29-45];oui;oui;[-50k];Private;SUV;[10-20];Urban;[Moins de 300];0
+372;27/01/2022;M;[50-65];oui;oui;[N/A];Private;Minivan;[N/A];Urban;[300-599];0
+373;26/05/2022;M;[+65];oui;oui;[-50k];Commercial;Panel Truck;[Moins de 10 ans];Rural;[300-599];2
+374;07/03/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];3
+375;16/04/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[N/A];Urban;[Moins de 300];3
+376;23/05/2022;M;[29-45];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];3
+377;08/01/2022;F;[+65];oui;oui;[-50k];Private;SUV;[N/A];Urban;[300-599];0
+378;29/05/2022;M;[18-28];oui;oui;[50k-99k];Private;Minivan;[20 ans+];Urban;[300-599];0
+379;10/01/2022;M;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];1
+380;18/04/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];0
+381;16/01/2022;M;Mineur;oui;oui;[+150k];Private;Minivan;[N/A];Urban;[Moins de 300];1
+382;02/01/2022;M;[+65];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];2
+383;18/03/2022;M;[+65];oui;oui;[100k-149k];Commercial;Van;[N/A];Urban;[300-599];3
+384;19/01/2022;M;[+65];oui;oui;[100k-149k];Private;Sports Car;[N/A];Urban;[300-599];0
+385;06/05/2022;M;Mineur;oui;oui;[50k-99k];Commercial;SUV;[N/A];Urban;[Moins de 300];0
+386;27/04/2022;F;[+65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];3
+387;16/02/2022;M;Mineur;oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[Moins de 300];4
+388;06/03/2022;F;[+65];oui;oui;[N/A];Private;Pickup;[N/A];Urban;[Moins de 300];0
+389;07/01/2022;M;[29-45];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+390;23/02/2022;M;[+65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+391;11/04/2022;F;[29-45];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[Moins de 300];0
+392;16/03/2022;F;[29-45];oui;oui;[N/A];Private;Sports Car;[N/A];Urban;[300-599];1
+393;13/05/2022;F;[29-45];oui;oui;[-50k];Commercial;Minivan;[N/A];Urban;[Moins de 300];2
+394;08/01/2022;M;[29-45];oui;oui;[100k-149k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[Moins de 300];1
+395;13/03/2022;F;[+65];oui;oui;[100k-149k];Private;Van;[Moins de 10 ans];Urban;[Moins de 300];0
+396;05/01/2022;M;[+65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];3
+397;17/02/2022;F;[29-45];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];1
+398;14/04/2022;M;[+65];oui;oui;[-50k];Private;SUV;[N/A];Rural;[300-599];0
+399;10/02/2022;M;[+65];oui;oui;[-50k];Private;SUV;[10-20];Urban;[Moins de 300];2
+400;17/04/2022;M;[+65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Rural;[Moins de 300];0
+401;15/02/2022;F;Mineur;oui;oui;[N/A];Commercial;Sports Car;[Moins de 10 ans];Urban;[300-599];7
+402;07/04/2022;M;Mineur;oui;oui;[100k-149k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[300-599];0
+403;11/01/2022;M;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];8
+404;29/01/2022;M;[+65];oui;oui;[+150k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];0
+405;27/01/2022;M;[50-65];oui;oui;[+150k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];5
+406;09/04/2022;F;Mineur;oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+407;04/02/2022;F;[18-28];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+408;13/04/2022;M;Mineur;oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];2
+409;01/03/2022;M;[29-45];oui;oui;[N/A];Commercial;Van;[N/A];Urban;[300-599];1
+410;13/02/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+411;27/03/2022;M;[50-65];oui;oui;[-50k];Commercial;Van;[Moins de 10 ans];Urban;[300-599];2
+412;26/03/2022;M;[50-65];oui;oui;[100k-149k];Private;Sports Car;[N/A];Urban;[Moins de 300];0
+413;05/04/2022;F;[+65];oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[300-599];0
+414;23/01/2022;F;Mineur;oui;oui;[-50k];Private;SUV;[N/A];Rural;[300-599];2
+415;14/02/2022;M;[+65];oui;oui;[50k-99k];Commercial;Pickup;[N/A];Urban;[Moins de 300];0
+416;31/03/2022;F;[50-65];oui;oui;[-50k];Private;Pickup;[N/A];Urban;[Moins de 300];0
+417;11/05/2022;M;[50-65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];1
+418;24/03/2022;F;[29-45];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];7
+419;29/03/2022;M;[+65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];6
+420;02/01/2022;F;[29-45];oui;oui;[N/A];Commercial;Panel Truck;[Moins de 10 ans];Urban;[300-599];0
+421;29/05/2022;M;[+65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];5
+422;18/04/2022;M;[18-28];oui;oui;[50k-99k];Private;Van;[N/A];Urban;[300-599];11
+423;17/04/2022;M;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];2
+424;08/03/2022;M;[+65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];6
+425;28/04/2022;F;[+65];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];0
+426;05/04/2022;M;[29-45];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Rural;[300-599];1
+427;30/03/2022;M;[29-45];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];0
+428;09/04/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];2
+429;06/05/2022;F;[50-65];oui;oui;[100k-149k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];6
+430;29/04/2022;F;[+65];oui;oui;[-50k];Private;SUV;[N/A];Rural;[300-599];4
+431;03/01/2022;F;[29-45];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];3
+432;09/05/2022;M;[18-28];oui;oui;[50k-99k];Commercial;Panel Truck;[Moins de 10 ans];Rural;[800+];1
+433;22/01/2022;F;[+65];oui;oui;[N/A];Commercial;Pickup;[N/A];Urban;[Moins de 300];0
+434;29/04/2022;F;Mineur;oui;oui;[-50k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+435;24/02/2022;F;[+65];oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Urban;[300-599];5
+436;01/04/2022;F;[50-65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];0
+437;12/02/2022;F;[+65];oui;oui;[50k-99k];Commercial;Pickup;[N/A];Urban;[Moins de 300];3
+438;19/04/2022;F;[50-65];oui;oui;[-50k];Private;Van;[N/A];Urban;[300-599];0
+439;06/02/2022;M;[+65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];2
+440;07/01/2022;F;[50-65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];0
+441;19/03/2022;F;[29-45];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];0
+442;10/03/2022;F;[+65];oui;oui;[N/A];Private;Pickup;[N/A];Urban;[300-599];0
+443;08/05/2022;F;[50-65];oui;oui;[-50k];Commercial;Pickup;[N/A];Urban;[300-599];0
+444;09/03/2022;F;[+65];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+445;20/04/2022;M;[+65];oui;oui;[-50k];Private;SUV;[N/A];Urban;[Moins de 300];2
+446;05/04/2022;F;[+65];oui;oui;[100k-149k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];3
+447;20/05/2022;M;[29-45];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];4
+448;03/03/2022;M;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];1
+449;12/03/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];2
+450;06/01/2022;F;[+65];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];0
+451;17/01/2022;M;[29-45];oui;oui;[N/A];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];7
+452;04/03/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];1
+453;28/02/2022;F;[50-65];oui;oui;[100k-149k];Private;SUV;[20 ans+];Urban;[300-599];0
+454;22/03/2022;M;[29-45];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];0
+455;09/05/2022;F;[18-28];oui;oui;[-50k];Commercial;Minivan;[10-20];Urban;[Moins de 300];0
+456;11/03/2022;F;[29-45];oui;oui;[50k-99k];Commercial;Pickup;[N/A];Urban;[Moins de 300];0
+457;19/02/2022;F;[50-65];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[300-599];5
+458;28/04/2022;F;[29-45];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];2
+459;01/03/2022;M;[18-28];oui;oui;[+150k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];0
+460;17/01/2022;M;[29-45];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];1
+461;12/03/2022;M;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];0
+462;14/04/2022;M;[29-45];oui;oui;[50k-99k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];1
+463;17/02/2022;M;[29-45];oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];0
+464;19/04/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];2
+465;18/05/2022;M;[+65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Rural;[Moins de 300];0
+466;13/03/2022;M;[+65];oui;oui;[50k-99k];Commercial;Pickup;[N/A];Rural;[Moins de 300];1
+467;11/05/2022;F;Mineur;oui;oui;[+150k];Commercial;Van;[N/A];Urban;[Moins de 300];0
+468;11/01/2022;F;Mineur;oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Urban;[300-599];1
+469;09/05/2022;F;[18-28];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];2
+470;04/01/2022;F;[50-65];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];6
+471;30/05/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];7
+472;06/03/2022;M;[29-45];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];1
+473;19/01/2022;M;[18-28];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];7
+474;20/04/2022;F;Mineur;oui;oui;[50k-99k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];2
+475;24/05/2022;M;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];1
+476;26/03/2022;F;[18-28];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];8
+477;23/03/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];1
+478;12/04/2022;M;[29-45];oui;oui;[100k-149k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];0
+479;15/04/2022;M;[29-45];oui;oui;[+150k];Private;Minivan;[N/A];Urban;[300-599];0
+480;20/04/2022;F;[+65];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];1
+481;02/05/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];0
+482;21/05/2022;F;[+65];oui;oui;[-50k];Private;Van;[Moins de 10 ans];Urban;[Moins de 300];6
+483;01/03/2022;F;[18-28];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];0
+484;10/05/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];3
+485;06/03/2022;F;[+65];oui;oui;[100k-149k];Private;Sports Car;[10-20];Urban;[300-599];1
+486;26/05/2022;F;Mineur;oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[Moins de 300];0
+487;25/04/2022;F;[18-28];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];1
+488;29/05/2022;M;[50-65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Rural;[300-599];0
+489;03/02/2022;M;Mineur;oui;oui;[-50k];Private;Sports Car;[10-20];Urban;[Moins de 300];5
+490;16/05/2022;M;[29-45];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+491;15/05/2022;F;[50-65];oui;oui;[50k-99k];Private;SUV;[10-20];Urban;[Moins de 300];1
+492;28/05/2022;M;[+65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];2
+493;27/03/2022;F;[+65];oui;oui;[-50k];Commercial;Pickup;[N/A];Rural;[Moins de 300];2
+494;03/02/2022;M;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];4
+495;06/05/2022;F;Mineur;oui;oui;[100k-149k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[300-599];4
+496;12/05/2022;F;[18-28];oui;oui;[-50k];Private;Minivan;[N/A];Rural;[300-599];3
+497;15/01/2022;F;[+65];oui;oui;[50k-99k];Commercial;Van;[N/A];Urban;[Moins de 300];1
+498;24/01/2022;M;Mineur;oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];1
+499;17/03/2022;M;[50-65];oui;oui;[+150k];Private;Pickup;[N/A];Urban;[300-599];0
+500;29/03/2022;M;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];1
+501;10/05/2022;M;[18-28];oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[Moins de 300];0
+502;14/03/2022;F;[50-65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+503;31/05/2022;F;[+65];oui;oui;[-50k];Private;Pickup;[10-20];Rural;[300-599];0
+504;10/05/2022;F;Mineur;oui;oui;[100k-149k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+505;14/05/2022;F;[50-65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];0
+506;07/05/2022;F;[+65];oui;oui;[100k-149k];Commercial;Van;[N/A];Urban;[Moins de 300];2
+507;17/05/2022;F;[50-65];oui;oui;[50k-99k];Private;Pickup;[Moins de 10 ans];Rural;[300-599];1
+508;17/03/2022;M;[50-65];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+509;15/03/2022;F;[29-45];oui;oui;[100k-149k];Commercial;Van;[10-20];Urban;[300-599];3
+510;30/03/2022;F;[50-65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+511;21/01/2022;F;[50-65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+512;18/01/2022;M;[50-65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];2
+513;19/04/2022;F;[18-28];oui;oui;[-50k];Commercial;Minivan;[N/A];Urban;[Moins de 300];1
+514;18/05/2022;M;[50-65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Rural;[300-599];0
+515;04/04/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[20 ans+];Urban;[Moins de 300];0
+516;25/03/2022;M;[50-65];oui;oui;[100k-149k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+517;23/03/2022;F;[50-65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];7
+518;25/03/2022;F;[29-45];oui;oui;[100k-149k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];0
+519;23/02/2022;M;[29-45];oui;oui;[N/A];Private;Minivan;[20 ans+];Urban;[300-599];0
+520;08/04/2022;F;[+65];oui;oui;[100k-149k];Commercial;SUV;[10-20];Urban;[300-599];4
+521;25/02/2022;M;[+65];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[300-599];0
+522;07/02/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];2
+523;01/04/2022;M;Mineur;oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Rural;[300-599];0
+524;25/05/2022;M;[18-28];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[Moins de 300];3
+525;21/04/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];5
+526;31/05/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+527;19/02/2022;M;[29-45];oui;oui;[N/A];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];0
+528;23/05/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];9
+529;24/02/2022;M;[+65];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Rural;[300-599];0
+530;28/05/2022;M;[+65];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];0
+531;18/05/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+532;12/03/2022;M;[50-65];oui;oui;[-50k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[Moins de 300];4
+533;06/03/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Rural;[Moins de 300];2
+534;04/03/2022;M;[+65];oui;oui;[N/A];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];3
+535;10/05/2022;M;[+65];oui;oui;[-50k];Commercial;Pickup;[N/A];Rural;[300-599];2
+536;08/04/2022;M;[29-45];oui;oui;[N/A];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];3
+537;20/01/2022;F;[50-65];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];1
+538;06/01/2022;F;[+65];oui;oui;[N/A];Private;Minivan;[N/A];Rural;[Moins de 300];2
+539;07/01/2022;F;[29-45];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Rural;[Moins de 300];2
+540;04/05/2022;F;[50-65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];1
+541;05/05/2022;M;Mineur;oui;oui;[100k-149k];Private;Pickup;[N/A];Urban;[300-599];2
+542;14/03/2022;F;Mineur;oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];7
+543;13/02/2022;M;[+65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];2
+544;27/03/2022;M;[+65];oui;oui;[-50k];Private;Minivan;[N/A];Rural;[300-599];0
+545;02/02/2022;F;[50-65];oui;oui;[50k-99k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];0
+546;22/05/2022;F;[+65];oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Rural;[300-599];0
+547;03/02/2022;M;[50-65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];2
+548;17/04/2022;M;[18-28];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];3
+549;30/01/2022;F;[+65];oui;oui;[50k-99k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];0
+550;04/01/2022;M;[+65];oui;oui;[+150k];Private;SUV;[N/A];Urban;[Moins de 300];3
+551;20/02/2022;F;[29-45];oui;oui;[-50k];Private;Pickup;[N/A];Rural;[300-599];2
+552;22/03/2022;M;[29-45];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[300-599];0
+553;14/04/2022;M;[+65];oui;oui;[N/A];Private;Sports Car;[20 ans+];Urban;[300-599];0
+554;28/03/2022;M;[+65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];4
+555;15/01/2022;M;[29-45];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];0
+556;30/03/2022;M;[+65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];1
+557;03/04/2022;M;Mineur;oui;oui;[N/A];Private;Minivan;[Moins de 10 ans];Rural;[Moins de 300];0
+558;11/04/2022;M;Mineur;oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];0
+559;18/05/2022;F;[+65];oui;oui;[-50k];Commercial;Panel Truck;[N/A];Urban;[300-599];0
+560;02/04/2022;M;[+65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];4
+561;09/03/2022;M;Mineur;oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+562;13/04/2022;M;[18-28];oui;oui;[-50k];Private;Sports Car;[10-20];Urban;[300-599];0
+563;14/03/2022;M;[29-45];oui;oui;[-50k];Commercial;Van;[N/A];Urban;[300-599];3
+564;12/05/2022;M;[50-65];oui;oui;[-50k];Private;Minivan;[10-20];Urban;[Moins de 300];1
+565;01/01/2022;F;[18-28];oui;oui;[-50k];Private;Van;[Moins de 10 ans];Urban;[Moins de 300];0
+566;25/05/2022;M;[18-28];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];4
+567;16/05/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+568;27/02/2022;M;Mineur;oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];1
+569;09/03/2022;F;[+65];oui;oui;[+150k];Private;Pickup;[N/A];Urban;[Moins de 300];0
+570;31/05/2022;M;[29-45];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];4
+571;02/03/2022;F;[50-65];oui;oui;[+150k];Private;Minivan;[N/A];Urban;[300-599];0
+572;24/04/2022;F;[18-28];oui;oui;[50k-99k];Commercial;Panel Truck;[20 ans+];Urban;[300-599];0
+573;21/01/2022;F;[+65];oui;oui;[-50k];Commercial;Pickup;[10-20];Urban;[Moins de 300];3
+574;07/03/2022;F;[+65];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];4
+575;31/05/2022;F;Mineur;oui;oui;[-50k];Private;Pickup;[N/A];Rural;[Moins de 300];0
+576;13/05/2022;M;[+65];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];4
+577;23/05/2022;F;[50-65];oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[Moins de 300];0
+578;11/05/2022;M;Mineur;oui;oui;[-50k];Commercial;Minivan;[10-20];Urban;[Moins de 300];1
+579;05/04/2022;M;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];3
+580;27/05/2022;M;[29-45];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];8
+581;20/04/2022;M;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];2
+582;25/01/2022;M;[50-65];oui;oui;[-50k];Commercial;Panel Truck;[10-20];Urban;[Moins de 300];0
+583;08/04/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];1
+584;18/02/2022;M;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];0
+585;12/01/2022;F;[29-45];oui;oui;[50k-99k];Commercial;Minivan;[N/A];Urban;[300-599];0
+586;10/01/2022;M;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];2
+587;10/05/2022;M;[+65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];1
+588;23/03/2022;M;[+65];oui;oui;[N/A];Private;SUV;[10-20];Rural;[300-599];0
+589;19/02/2022;M;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];5
+590;27/04/2022;M;[29-45];oui;oui;[N/A];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+591;23/04/2022;F;[+65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];0
+592;21/05/2022;F;[50-65];oui;oui;[100k-149k];Commercial;Panel Truck;[10-20];Urban;[300-599];5
+593;06/01/2022;M;Mineur;oui;oui;[100k-149k];Private;Van;[N/A];Urban;[Moins de 300];6
+594;08/04/2022;M;Mineur;oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[300-599];0
+595;25/04/2022;F;[+65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+596;09/01/2022;M;[+65];oui;oui;[-50k];Private;Sports Car;[N/A];Urban;[Moins de 300];1
+597;05/02/2022;M;[29-45];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];2
+598;01/03/2022;M;[+65];oui;oui;[+150k];Private;Minivan;[N/A];Urban;[Moins de 300];2
+599;14/02/2022;M;[50-65];oui;oui;[-50k];Private;Sports Car;[20 ans+];Rural;[300-599];2
+600;13/02/2022;F;[29-45];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];7
+601;11/03/2022;M;[50-65];oui;oui;[N/A];Commercial;Pickup;[Moins de 10 ans];Rural;[300-599];2
+602;12/01/2022;M;[50-65];oui;oui;[50k-99k];Commercial;SUV;[N/A];Urban;[Moins de 300];1
+603;10/03/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[300-599];0
+604;10/05/2022;M;[50-65];oui;oui;[+150k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[Moins de 300];0
+605;11/01/2022;F;Mineur;oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];3
+606;05/05/2022;M;[29-45];oui;oui;[N/A];Private;Sports Car;[Moins de 10 ans];Rural;[300-599];0
+607;21/02/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];1
+608;07/04/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Van;[N/A];Urban;[300-599];0
+609;07/02/2022;M;[+65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];2
+610;28/05/2022;F;Mineur;oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+611;03/03/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+612;07/02/2022;M;[18-28];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[300-599];0
+613;07/01/2022;F;[29-45];oui;oui;[50k-99k];Private;SUV;[N/A];Rural;[300-599];0
+614;26/02/2022;M;Mineur;oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];0
+615;07/04/2022;M;Mineur;oui;oui;[+150k];Private;Van;[N/A];Urban;[300-599];0
+616;22/03/2022;F;[+65];oui;oui;[+150k];Private;Sports Car;[20 ans+];Urban;[Moins de 300];4
+617;12/01/2022;F;Mineur;oui;oui;[50k-99k];Private;SUV;[N/A];Rural;[300-599];1
+618;10/03/2022;M;[50-65];oui;oui;[-50k];Private;Sports Car;[N/A];Urban;[300-599];0
+619;11/02/2022;F;Mineur;oui;oui;[-50k];Commercial;Sports Car;[N/A];Urban;[Moins de 300];2
+620;17/04/2022;F;[29-45];oui;oui;[50k-99k];Private;Minivan;[N/A];Rural;[Moins de 300];2
+621;20/05/2022;M;[+65];oui;oui;[N/A];Private;Minivan;[Moins de 10 ans];Urban;[300-599];3
+622;08/01/2022;F;[18-28];oui;oui;[+150k];Commercial;Panel Truck;[N/A];Rural;[Moins de 300];0
+623;14/03/2022;M;[18-28];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];3
+624;23/05/2022;M;[18-28];oui;oui;[100k-149k];Private;Pickup;[10-20];Urban;[Moins de 300];0
+625;09/04/2022;M;[18-28];oui;oui;[50k-99k];Commercial;Sports Car;[N/A];Urban;[300-599];1
+626;28/04/2022;M;[18-28];oui;oui;[-50k];Private;Van;[N/A];Urban;[300-599];0
+627;17/02/2022;M;Mineur;oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Rural;[300-599];3
+628;16/04/2022;F;[50-65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[Moins de 300];2
+629;14/04/2022;M;Mineur;oui;oui;[+150k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+630;26/04/2022;M;[29-45];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];0
+631;24/04/2022;M;[29-45];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];4
+632;03/03/2022;M;[18-28];oui;oui;[50k-99k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];0
+633;18/03/2022;M;Mineur;oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[300-599];1
+634;28/04/2022;F;[+65];oui;oui;[50k-99k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];2
+635;22/03/2022;F;Mineur;oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];1
+636;08/02/2022;F;[18-28];oui;oui;[50k-99k];Commercial;Pickup;[10-20];Urban;[300-599];4
+637;08/02/2022;F;[18-28];oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Rural;[300-599];0
+638;07/02/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+639;22/03/2022;F;[+65];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];2
+640;13/04/2022;F;[+65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];1
+641;16/02/2022;M;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];4
+642;01/03/2022;F;Mineur;oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+643;17/01/2022;F;[29-45];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+644;21/05/2022;M;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];2
+645;17/04/2022;F;[29-45];oui;oui;[+150k];Private;Minivan;[N/A];Urban;[300-599];6
+646;13/02/2022;F;[18-28];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+647;08/03/2022;M;[+65];oui;oui;[100k-149k];Private;Minivan;[20 ans+];Urban;[Moins de 300];0
+648;01/05/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Rural;[300-599];1
+649;10/02/2022;M;[18-28];oui;oui;[+150k];Commercial;Pickup;[N/A];Urban;[300-599];0
+650;17/03/2022;F;[29-45];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[300-599];0
+651;10/02/2022;M;[50-65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Rural;[300-599];1
+652;16/01/2022;F;[50-65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+653;05/01/2022;M;[+65];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];6
+654;11/01/2022;F;[29-45];oui;oui;[+150k];Commercial;Panel Truck;[N/A];Urban;[800+];0
+655;11/03/2022;M;[50-65];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];0
+656;10/01/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];0
+657;15/05/2022;M;[50-65];oui;oui;[-50k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];1
+658;03/01/2022;F;[+65];oui;oui;[N/A];Private;SUV;[Moins de 10 ans];Rural;[300-599];2
+659;22/01/2022;F;[+65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[300-599];1
+660;03/04/2022;F;[+65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];1
+661;15/03/2022;F;[18-28];oui;oui;[-50k];Commercial;Pickup;[N/A];Rural;[300-599];4
+662;11/05/2022;M;[+65];oui;oui;[-50k];Private;Van;[20 ans+];Rural;[800+];2
+663;20/02/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];5
+664;07/03/2022;M;[29-45];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];0
+665;11/04/2022;M;[29-45];oui;oui;[100k-149k];Commercial;Pickup;[N/A];Urban;[300-599];4
+666;21/01/2022;M;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+667;22/03/2022;M;Mineur;oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];0
+668;11/04/2022;F;[50-65];oui;oui;[-50k];Commercial;Minivan;[N/A];Urban;[300-599];4
+669;17/01/2022;F;Mineur;oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];2
+670;08/04/2022;M;[18-28];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[300-599];4
+671;10/05/2022;F;[18-28];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Rural;[Moins de 300];3
+672;23/02/2022;M;[29-45];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];1
+673;02/04/2022;M;[+65];oui;oui;[50k-99k];Private;Pickup;[Moins de 10 ans];Rural;[Moins de 300];1
+674;15/02/2022;F;[29-45];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];1
+675;08/01/2022;M;[+65];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Rural;[Moins de 300];0
+676;24/03/2022;M;[+65];oui;oui;[50k-99k];Commercial;Pickup;[N/A];Urban;[300-599];4
+677;24/05/2022;F;[+65];oui;oui;[50k-99k];Commercial;SUV;[N/A];Urban;[Moins de 300];5
+678;17/01/2022;F;[29-45];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];5
+679;17/03/2022;M;[+65];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];3
+680;18/03/2022;M;[18-28];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];0
+681;05/01/2022;F;Mineur;oui;oui;[-50k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];1
+682;13/05/2022;M;[18-28];oui;oui;[100k-149k];Commercial;Van;[Moins de 10 ans];Urban;[300-599];0
+683;14/01/2022;M;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+684;16/01/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];1
+685;13/04/2022;F;[29-45];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];1
+686;09/03/2022;F;Mineur;oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];0
+687;15/03/2022;M;[+65];oui;oui;[100k-149k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+688;07/02/2022;M;[+65];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Rural;[300-599];2
+689;08/03/2022;M;[+65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+690;07/01/2022;F;[29-45];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];0
+691;13/04/2022;M;[29-45];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[300-599];0
+692;30/05/2022;M;[+65];oui;oui;[-50k];Private;Minivan;[20 ans+];Urban;[300-599];0
+693;10/03/2022;F;Mineur;oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];4
+694;02/05/2022;F;[29-45];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];1
+695;04/05/2022;F;[50-65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];2
+696;17/05/2022;M;Mineur;oui;oui;[-50k];Private;Minivan;[N/A];Urban;[Moins de 300];2
+697;25/04/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+698;11/05/2022;M;[29-45];oui;oui;[100k-149k];Private;Minivan;[10-20];Rural;[Moins de 300];1
+699;05/02/2022;M;[50-65];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];1
+700;03/03/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[Moins de 300];6
+701;18/05/2022;M;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];0
+702;25/02/2022;F;[29-45];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Rural;[300-599];0
+703;18/01/2022;M;[+65];oui;oui;[-50k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[600-799];5
+704;08/05/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];3
+705;19/02/2022;M;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+706;10/01/2022;F;Mineur;oui;oui;[N/A];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];6
+707;30/03/2022;F;[+65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Rural;[Moins de 300];1
+708;07/05/2022;F;[18-28];oui;oui;[50k-99k];Private;Van;[N/A];Urban;[Moins de 300];1
+709;20/05/2022;F;Mineur;oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+710;07/05/2022;F;[50-65];oui;oui;[-50k];Commercial;Van;[20 ans+];Urban;[300-599];3
+711;04/04/2022;M;[+65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];0
+712;04/03/2022;F;Mineur;oui;oui;[50k-99k];Private;Sports Car;[10-20];Urban;[Moins de 300];0
+713;11/02/2022;M;[+65];oui;oui;[N/A];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];1
+714;31/03/2022;F;[+65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];0
+715;26/01/2022;F;[+65];oui;oui;[100k-149k];Private;Van;[Moins de 10 ans];Urban;[Moins de 300];0
+716;13/02/2022;M;[+65];oui;oui;[N/A];Commercial;Sports Car;[Moins de 10 ans];Urban;[300-599];2
+717;15/01/2022;M;Mineur;oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[300-599];0
+718;23/02/2022;M;[18-28];oui;oui;[50k-99k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[300-599];0
+719;21/03/2022;F;[18-28];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[300-599];0
+720;29/04/2022;M;[29-45];oui;oui;[100k-149k];Private;Sports Car;[N/A];Urban;[Moins de 300];0
+721;07/03/2022;M;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+722;29/05/2022;M;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+723;10/03/2022;M;[50-65];oui;oui;[N/A];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];2
+724;08/02/2022;M;[50-65];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[Moins de 300];2
+725;11/04/2022;F;[18-28];oui;oui;[50k-99k];Commercial;Van;[N/A];Urban;[300-599];8
+726;26/05/2022;M;[+65];oui;oui;[N/A];Private;Van;[Moins de 10 ans];Urban;[Moins de 300];0
+727;18/04/2022;M;Mineur;oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];4
+728;19/02/2022;F;Mineur;oui;oui;[50k-99k];Commercial;Pickup;[N/A];Urban;[Moins de 300];0
+729;12/04/2022;F;[29-45];oui;oui;[50k-99k];Commercial;Sports Car;[Moins de 10 ans];Urban;[300-599];3
+730;17/04/2022;M;[50-65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Rural;[300-599];0
+731;23/03/2022;M;[+65];oui;oui;[N/A];Private;Minivan;[Moins de 10 ans];Urban;[300-599];4
+732;05/02/2022;M;[29-45];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];4
+733;26/03/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[300-599];0
+734;18/04/2022;F;[29-45];oui;oui;[100k-149k];Commercial;Van;[10-20];Urban;[300-599];3
+735;01/03/2022;M;Mineur;oui;oui;[N/A];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];1
+736;30/01/2022;M;Mineur;oui;oui;[50k-99k];Commercial;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];0
+737;02/02/2022;F;Mineur;oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];6
+738;08/04/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];0
+739;01/04/2022;F;[50-65];oui;oui;[50k-99k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[Moins de 300];4
+740;07/01/2022;M;[18-28];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+741;06/05/2022;F;[50-65];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[Moins de 300];3
+742;26/05/2022;M;[18-28];oui;oui;[50k-99k];Private;Van;[Moins de 10 ans];Urban;[300-599];2
+743;09/03/2022;M;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];0
+744;04/02/2022;M;[50-65];oui;oui;[50k-99k];Private;Van;[10-20];Urban;[300-599];3
+745;30/03/2022;M;[+65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Rural;[Moins de 300];3
+746;05/01/2022;M;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];0
+747;13/03/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+748;13/04/2022;M;[+65];oui;oui;[-50k];Commercial;SUV;[N/A];Rural;[300-599];0
+749;03/05/2022;M;[+65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[Moins de 300];1
+750;10/03/2022;F;[+65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];5
+751;19/03/2022;M;[29-45];oui;oui;[100k-149k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];0
+752;12/05/2022;M;Mineur;oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];3
+753;19/04/2022;M;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];4
+754;09/03/2022;F;[29-45];oui;oui;[50k-99k];Private;Minivan;[20 ans+];Urban;[Moins de 300];0
+755;30/03/2022;M;[50-65];oui;oui;[+150k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[Moins de 300];1
+756;17/01/2022;M;[29-45];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];2
+757;14/04/2022;F;[50-65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];7
+758;07/04/2022;M;[50-65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];1
+759;26/01/2022;F;[29-45];oui;oui;[50k-99k];Private;Sports Car;[10-20];Urban;[300-599];1
+760;26/01/2022;M;Mineur;oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[Moins de 300];2
+761;15/03/2022;F;[29-45];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[300-599];2
+762;30/05/2022;F;[50-65];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[300-599];0
+763;09/04/2022;M;Mineur;oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];2
+764;21/05/2022;F;[29-45];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+765;01/01/2022;M;Mineur;oui;oui;[50k-99k];Commercial;Pickup;[10-20];Urban;[300-599];0
+766;24/02/2022;M;[+65];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];2
+767;12/01/2022;F;[18-28];oui;oui;[100k-149k];Private;Pickup;[10-20];Urban;[300-599];2
+768;14/01/2022;M;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];0
+769;02/02/2022;F;[50-65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Rural;[300-599];1
+770;10/04/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];2
+771;28/05/2022;M;Mineur;oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];4
+772;19/05/2022;M;[29-45];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];1
+773;05/03/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+774;04/01/2022;M;[+65];oui;oui;[50k-99k];Commercial;Pickup;[N/A];Urban;[Moins de 300];3
+775;23/04/2022;M;[29-45];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];2
+776;19/01/2022;M;[+65];oui;oui;[-50k];Private;SUV;[N/A];Urban;[300-599];2
+777;14/05/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Pickup;[N/A];Urban;[Moins de 300];0
+778;22/02/2022;M;[+65];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];4
+779;24/02/2022;F;[29-45];oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Urban;[300-599];0
+780;26/05/2022;M;[50-65];oui;oui;[N/A];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];0
+781;14/01/2022;F;[29-45];oui;oui;[100k-149k];Commercial;SUV;[Moins de 10 ans];Rural;[Moins de 300];1
+782;06/01/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Rural;[300-599];1
+783;21/01/2022;F;Mineur;oui;oui;[50k-99k];Private;SUV;[20 ans+];Urban;[Moins de 300];3
+784;12/04/2022;M;[29-45];oui;oui;[+150k];Private;Minivan;[N/A];Urban;[Moins de 300];2
+785;05/01/2022;M;[50-65];oui;oui;[+150k];Private;Minivan;[N/A];Urban;[300-599];1
+786;10/01/2022;M;[50-65];oui;oui;[-50k];Commercial;Pickup;[N/A];Urban;[300-599];1
+787;08/04/2022;F;[50-65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Rural;[300-599];0
+788;30/03/2022;M;[50-65];oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[Moins de 300];3
+789;12/04/2022;M;[+65];oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];0
+790;15/03/2022;F;[+65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];1
+791;12/03/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];4
+792;14/03/2022;M;[+65];oui;oui;[50k-99k];Commercial;Pickup;[N/A];Urban;[Moins de 300];1
+793;09/01/2022;M;[+65];oui;oui;[-50k];Commercial;Van;[N/A];Urban;[300-599];0
+794;27/02/2022;M;[50-65];oui;oui;[N/A];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];1
+795;02/02/2022;F;[+65];oui;oui;[-50k];Private;SUV;[10-20];Urban;[300-599];0
+796;06/03/2022;M;[+65];oui;oui;[50k-99k];Commercial;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];0
+797;06/01/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+798;03/04/2022;F;[29-45];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+799;30/04/2022;F;[50-65];oui;oui;[100k-149k];Private;Minivan;[10-20];Urban;[Moins de 300];0
+800;19/03/2022;M;[+65];oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[300-599];0
+801;24/01/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[Moins de 300];0
+802;23/02/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+803;17/05/2022;M;[50-65];oui;oui;[-50k];Commercial;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];7
+804;06/03/2022;F;[18-28];oui;oui;[N/A];Private;Van;[Moins de 10 ans];Urban;[Moins de 300];4
+805;13/03/2022;F;Mineur;oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];1
+806;10/02/2022;M;Mineur;oui;oui;[N/A];Commercial;SUV;[10-20];Urban;[300-599];0
+807;16/01/2022;F;[+65];oui;oui;[N/A];Private;SUV;[N/A];Urban;[300-599];0
+808;19/05/2022;M;[50-65];oui;oui;[-50k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];6
+809;18/04/2022;M;[+65];oui;oui;[+150k];Private;SUV;[N/A];Urban;[Moins de 300];2
+810;13/01/2022;M;[50-65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Rural;[300-599];2
+811;28/05/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[300-599];0
+812;28/03/2022;F;[29-45];oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];0
+813;15/03/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];1
+814;10/03/2022;M;[50-65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];0
+815;20/01/2022;M;[+65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];4
+816;09/04/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[20 ans+];Urban;[300-599];0
+817;05/03/2022;M;[29-45];oui;oui;[50k-99k];Commercial;Pickup;[20 ans+];Urban;[300-599];1
+818;09/04/2022;M;Mineur;oui;oui;[50k-99k];Commercial;Van;[N/A];Urban;[300-599];0
+819;16/02/2022;F;[50-65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];5
+820;06/04/2022;M;[+65];oui;oui;[-50k];Commercial;Minivan;[10-20];Urban;[300-599];6
+821;23/03/2022;F;[+65];oui;oui;[50k-99k];Private;Van;[N/A];Urban;[Moins de 300];4
+822;25/01/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];3
+823;21/01/2022;F;[18-28];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];1
+824;27/01/2022;M;[+65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[300-599];8
+825;22/04/2022;M;[+65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];9
+826;13/03/2022;M;[+65];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[Moins de 300];0
+827;15/01/2022;F;[50-65];oui;oui;[+150k];Commercial;Van;[Moins de 10 ans];Urban;[300-599];4
+828;24/02/2022;F;Mineur;oui;oui;[N/A];Private;Minivan;[N/A];Urban;[Moins de 300];3
+829;27/03/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+830;02/04/2022;M;[50-65];oui;oui;[-50k];Commercial;Van;[10-20];Urban;[Moins de 300];0
+831;18/02/2022;F;[18-28];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];1
+832;17/04/2022;M;[+65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];2
+833;20/05/2022;F;[29-45];oui;oui;[-50k];Commercial;Pickup;[N/A];Rural;[Moins de 300];3
+834;29/01/2022;F;Mineur;oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];0
+835;01/05/2022;M;[29-45];oui;oui;[N/A];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];3
+836;02/05/2022;M;[18-28];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];4
+837;22/04/2022;F;[50-65];oui;oui;[50k-99k];Commercial;Van;[N/A];Urban;[Moins de 300];4
+838;24/01/2022;M;[+65];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];7
+839;23/02/2022;M;Mineur;oui;oui;[+150k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];0
+840;22/05/2022;F;[50-65];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[300-599];4
+841;17/03/2022;F;[29-45];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[800+];0
+842;04/04/2022;F;Mineur;oui;oui;[50k-99k];Commercial;Panel Truck;[10-20];Urban;[Moins de 300];0
+843;01/05/2022;M;[18-28];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];4
+844;02/05/2022;F;[+65];oui;oui;[-50k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[Moins de 300];4
+845;28/03/2022;F;[18-28];oui;oui;[100k-149k];Commercial;Pickup;[Moins de 10 ans];Rural;[Moins de 300];0
+846;19/05/2022;F;[29-45];oui;oui;[+150k];Commercial;Panel Truck;[N/A];Urban;[300-599];1
+847;14/05/2022;M;[50-65];oui;oui;[-50k];Private;Van;[Moins de 10 ans];Urban;[Moins de 300];0
+848;06/05/2022;F;[+65];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[300-599];0
+849;25/04/2022;M;[50-65];oui;oui;[-50k];Commercial;Pickup;[10-20];Urban;[300-599];2
+850;18/03/2022;F;[29-45];oui;oui;[-50k];Private;SUV;[N/A];Urban;[300-599];6
+851;15/04/2022;F;[29-45];oui;oui;[+150k];Private;Minivan;[N/A];Urban;[300-599];0
+852;20/01/2022;F;[+65];oui;oui;[100k-149k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];0
+853;14/03/2022;F;Mineur;oui;oui;[N/A];Commercial;SUV;[Moins de 10 ans];Urban;[600-799];4
+854;08/01/2022;M;[+65];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];3
+855;21/04/2022;F;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];0
+856;19/02/2022;F;[+65];oui;oui;[-50k];Private;SUV;[N/A];Urban;[300-599];4
+857;04/04/2022;M;[+65];oui;oui;[50k-99k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[300-599];2
+858;17/01/2022;M;[29-45];oui;oui;[100k-149k];Private;SUV;[Moins de 10 ans];Rural;[300-599];4
+859;14/01/2022;F;[29-45];oui;oui;[+150k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];5
+860;01/02/2022;M;[50-65];oui;oui;[100k-149k];Commercial;Van;[N/A];Urban;[300-599];4
+861;03/04/2022;F;[50-65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];0
+862;25/02/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[N/A];Rural;[300-599];5
+863;14/05/2022;M;Mineur;oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+864;01/02/2022;M;[29-45];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];2
+865;09/02/2022;F;Mineur;oui;oui;[+150k];Private;Minivan;[N/A];Urban;[300-599];1
+866;13/01/2022;M;[+65];oui;oui;[50k-99k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];3
+867;14/05/2022;M;[50-65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+868;27/01/2022;F;[50-65];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[300-599];3
+869;03/01/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[300-599];0
+870;26/03/2022;M;[+65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];4
+871;07/03/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[10-20];Urban;[300-599];0
+872;01/03/2022;M;[50-65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+873;04/05/2022;M;[+65];oui;oui;[50k-99k];Commercial;SUV;[N/A];Urban;[300-599];0
+874;04/02/2022;F;Mineur;oui;oui;[50k-99k];Commercial;SUV;[N/A];Urban;[Moins de 300];0
+875;26/04/2022;M;[+65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];6
+876;02/01/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];1
+877;26/03/2022;M;[50-65];oui;oui;[100k-149k];Private;Minivan;[20 ans+];Urban;[300-599];7
+878;16/01/2022;M;[50-65];oui;oui;[-50k];Private;Van;[Moins de 10 ans];Urban;[300-599];3
+879;26/05/2022;F;[+65];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[300-599];0
+880;24/03/2022;M;[+65];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];0
+881;20/04/2022;M;[50-65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Rural;[Moins de 300];2
+882;11/05/2022;M;[29-45];oui;oui;[50k-99k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];0
+883;13/01/2022;M;[50-65];oui;oui;[-50k];Commercial;Minivan;[10-20];Urban;[Moins de 300];0
+884;21/03/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];2
+885;18/01/2022;F;[29-45];oui;oui;[100k-149k];Private;Minivan;[N/A];Rural;[Moins de 300];0
+886;13/04/2022;F;[+65];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];1
+887;24/04/2022;F;[+65];oui;oui;[N/A];Commercial;Pickup;[N/A];Urban;[Moins de 300];0
+888;10/02/2022;M;[50-65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];4
+889;28/02/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[Moins de 300];0
+890;05/02/2022;M;[+65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Rural;[Moins de 300];0
+891;27/03/2022;M;[+65];oui;oui;[50k-99k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];1
+892;05/01/2022;F;[29-45];oui;oui;[N/A];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];2
+893;03/05/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];2
+894;26/03/2022;M;[18-28];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+895;31/01/2022;F;[+65];oui;oui;[-50k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];1
+896;30/04/2022;F;[50-65];oui;oui;[100k-149k];Private;Minivan;[20 ans+];Urban;[Moins de 300];1
+897;04/02/2022;F;Mineur;oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Urban;[300-599];0
+898;20/01/2022;M;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Rural;[300-599];4
+899;22/03/2022;F;[50-65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[300-599];0
+900;31/05/2022;M;[+65];oui;oui;[-50k];Private;Sports Car;[N/A];Urban;[300-599];0
+901;05/01/2022;M;[29-45];oui;oui;[N/A];Commercial;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];4
+902;23/04/2022;F;[50-65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];10
+903;02/05/2022;F;[29-45];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+904;11/04/2022;F;Mineur;oui;oui;[-50k];Commercial;Minivan;[10-20];Urban;[Moins de 300];0
+905;04/02/2022;M;[29-45];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];4
+906;22/01/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[600-799];0
+907;18/03/2022;M;[29-45];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];2
+908;08/02/2022;F;[50-65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];0
+909;21/02/2022;M;[18-28];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+910;13/01/2022;F;[18-28];oui;oui;[100k-149k];Commercial;Van;[N/A];Urban;[300-599];2
+911;20/05/2022;F;[29-45];oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[Moins de 300];0
+912;19/02/2022;M;[+65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];2
+913;13/04/2022;F;Mineur;oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];0
+914;25/03/2022;F;[50-65];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Rural;[300-599];0
+915;08/05/2022;F;[18-28];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];1
+916;08/01/2022;M;[+65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];3
+917;20/02/2022;F;[+65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Rural;[Moins de 300];2
+918;17/02/2022;F;[29-45];oui;oui;[100k-149k];Commercial;Sports Car;[Moins de 10 ans];Urban;[300-599];1
+919;24/01/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+920;23/05/2022;F;[+65];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[300-599];4
+921;12/05/2022;M;[+65];oui;oui;[50k-99k];Commercial;SUV;[N/A];Urban;[Moins de 300];0
+922;25/02/2022;M;[+65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+923;20/05/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+924;22/02/2022;F;[+65];oui;oui;[+150k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[300-599];0
+925;23/02/2022;F;[18-28];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+926;28/03/2022;M;Mineur;oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];1
+927;02/05/2022;F;[50-65];oui;oui;[-50k];Commercial;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+928;20/03/2022;F;[50-65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];6
+929;23/04/2022;M;Mineur;oui;oui;[-50k];Commercial;SUV;[10-20];Urban;[300-599];4
+930;11/04/2022;M;[+65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];11
+931;23/04/2022;M;[29-45];oui;oui;[-50k];Commercial;Van;[N/A];Urban;[300-599];1
+932;13/04/2022;M;[50-65];oui;oui;[-50k];Commercial;Panel Truck;[Moins de 10 ans];Rural;[Moins de 300];0
+933;26/03/2022;M;Mineur;oui;oui;[50k-99k];Commercial;Pickup;[10-20];Rural;[Moins de 300];2
+934;28/02/2022;F;[50-65];oui;oui;[50k-99k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[Moins de 300];0
+935;18/03/2022;F;[+65];oui;oui;[+150k];Private;Minivan;[N/A];Urban;[300-599];0
+936;17/02/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[Moins de 300];4
+937;23/02/2022;M;[+65];oui;oui;[50k-99k];Commercial;Minivan;[10-20];Urban;[300-599];4
+938;23/01/2022;F;[+65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+939;03/05/2022;M;[18-28];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+940;17/01/2022;M;[+65];oui;oui;[-50k];Private;Van;[N/A];Urban;[300-599];1
+941;17/05/2022;M;[29-45];oui;oui;[100k-149k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];1
+942;08/02/2022;F;Mineur;oui;oui;[100k-149k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[300-599];3
+943;06/01/2022;M;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+944;18/03/2022;F;[50-65];oui;oui;[+150k];Commercial;Pickup;[N/A];Urban;[Moins de 300];0
+945;20/04/2022;F;[+65];oui;oui;[50k-99k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];4
+946;05/01/2022;F;Mineur;oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[300-599];6
+947;07/03/2022;F;Mineur;oui;oui;[N/A];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];1
+948;08/04/2022;M;[29-45];oui;oui;[50k-99k];Private;Minivan;[10-20];Urban;[300-599];0
+949;13/01/2022;F;[+65];oui;oui;[100k-149k];Commercial;Panel Truck;[N/A];Urban;[300-599];3
+950;22/01/2022;M;[50-65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+951;13/05/2022;M;[+65];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[300-599];1
+952;01/03/2022;F;[+65];oui;oui;[-50k];Private;SUV;[N/A];Urban;[Moins de 300];2
+953;17/05/2022;M;[29-45];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Rural;[300-599];2
+954;27/02/2022;M;[+65];oui;oui;[+150k];Private;Minivan;[N/A];Urban;[300-599];2
+955;14/01/2022;M;Mineur;oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];2
+956;12/04/2022;M;[29-45];oui;oui;[-50k];Private;SUV;[N/A];Rural;[300-599];4
+957;03/04/2022;F;[50-65];oui;oui;[N/A];Private;SUV;[N/A];Urban;[300-599];0
+958;15/02/2022;M;[+65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];0
+959;21/04/2022;F;[50-65];oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];0
+960;13/04/2022;M;Mineur;oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Rural;[300-599];0
+961;11/02/2022;M;[50-65];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];2
+962;13/02/2022;F;[50-65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];6
+963;16/05/2022;M;[+65];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[300-599];1
+964;18/03/2022;F;[50-65];oui;oui;[+150k];Private;Minivan;[20 ans+];Urban;[300-599];0
+965;18/01/2022;F;[+65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];5
+966;23/05/2022;F;Mineur;oui;oui;[+150k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];1
+967;16/03/2022;M;[+65];oui;oui;[+150k];Private;SUV;[N/A];Urban;[Moins de 300];0
+968;04/04/2022;M;[18-28];oui;oui;[+150k];Private;Sports Car;[N/A];Urban;[300-599];0
+969;31/03/2022;M;[29-45];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];0
+970;28/02/2022;F;[29-45];oui;oui;[50k-99k];Private;Minivan;[20 ans+];Urban;[Moins de 300];1
+971;16/04/2022;M;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];0
+972;12/02/2022;F;[29-45];oui;oui;[-50k];Private;SUV;[N/A];Urban;[300-599];4
+973;29/01/2022;M;[50-65];oui;oui;[-50k];Private;SUV;[N/A];Rural;[Moins de 300];0
+974;30/04/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+975;25/02/2022;F;[+65];oui;oui;[50k-99k];Commercial;Van;[N/A];Urban;[300-599];0
+976;30/04/2022;M;Mineur;oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];3
+977;25/02/2022;F;[+65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[Moins de 300];2
+978;06/05/2022;F;[50-65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];1
+979;16/03/2022;F;[50-65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];2
+980;06/04/2022;F;[29-45];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+981;06/03/2022;F;[+65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];5
+982;04/03/2022;M;[+65];oui;oui;[+150k];Private;Minivan;[N/A];Urban;[Moins de 300];0
+983;06/05/2022;F;[+65];oui;oui;[50k-99k];Private;Sports Car;[10-20];Urban;[Moins de 300];0
+984;01/02/2022;F;Mineur;oui;oui;[50k-99k];Private;Pickup;[20 ans+];Urban;[300-599];3
+985;16/03/2022;M;[50-65];oui;oui;[100k-149k];Commercial;Panel Truck;[20 ans+];Urban;[Moins de 300];1
+986;13/03/2022;F;[50-65];oui;oui;[50k-99k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[300-599];2
+987;16/04/2022;M;Mineur;oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];0
+988;05/03/2022;M;[29-45];oui;oui;[50k-99k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[Moins de 300];3
+989;19/03/2022;M;[50-65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[Moins de 300];6
+990;01/05/2022;F;[29-45];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Rural;[300-599];0
+991;19/01/2022;M;Mineur;oui;oui;[-50k];Commercial;Sports Car;[Moins de 10 ans];Urban;[300-599];5
+992;23/01/2022;F;Mineur;oui;oui;[-50k];Private;Pickup;[N/A];Urban;[Moins de 300];3
+993;15/03/2022;F;[50-65];oui;oui;[N/A];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+994;14/01/2022;F;Mineur;oui;oui;[-50k];Commercial;Sports Car;[Moins de 10 ans];Urban;[300-599];0
+995;22/01/2022;M;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];3
+996;03/03/2022;F;[50-65];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];0
+997;01/04/2022;M;[29-45];oui;oui;[N/A];Private;SUV;[Moins de 10 ans];Rural;[300-599];1
+998;06/04/2022;M;[+65];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[300-599];2
+999;16/05/2022;M;[+65];oui;oui;[100k-149k];Commercial;Pickup;[N/A];Urban;[Moins de 300];0
+1000;15/02/2022;M;Mineur;oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];0
+1001;16/02/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];2
+1002;14/03/2022;F;[50-65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];7
+1003;22/04/2022;F;[+65];oui;oui;[N/A];Private;SUV;[Moins de 10 ans];Rural;[300-599];0
+1004;31/05/2022;M;[29-45];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[300-599];2
+1005;25/02/2022;F;[29-45];oui;oui;[-50k];Private;SUV;[N/A];Urban;[300-599];0
+1006;12/03/2022;F;[18-28];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+1007;25/05/2022;M;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+1008;11/02/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];3
+1009;09/02/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];0
+1010;23/04/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[N/A];Urban;[Moins de 300];0
+1011;06/03/2022;F;[50-65];oui;oui;[50k-99k];Private;SUV;[10-20];Urban;[300-599];2
+1012;18/03/2022;M;[29-45];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];2
+1013;29/03/2022;F;[+65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];10
+1014;30/03/2022;M;Mineur;oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Rural;[Moins de 300];0
+1015;18/05/2022;M;[+65];oui;oui;[100k-149k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+1016;01/05/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];6
+1017;04/03/2022;M;[+65];oui;oui;[100k-149k];Private;Minivan;[N/A];Rural;[Moins de 300];0
+1018;12/03/2022;M;[29-45];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[300-599];0
+1019;14/03/2022;M;[50-65];oui;oui;[-50k];Commercial;Minivan;[10-20];Urban;[Moins de 300];3
+1020;29/01/2022;F;[18-28];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];5
+1021;09/05/2022;F;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Rural;[300-599];3
+1022;15/01/2022;F;[29-45];oui;oui;[100k-149k];Private;Sports Car;[N/A];Urban;[300-599];0
+1023;11/05/2022;M;Mineur;oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[Moins de 300];1
+1024;22/05/2022;M;[50-65];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[300-599];0
+1025;16/03/2022;M;[50-65];oui;oui;[-50k];Private;Sports Car;[N/A];Urban;[300-599];0
+1026;10/02/2022;F;[+65];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[Moins de 300];4
+1027;30/05/2022;F;[29-45];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];4
+1028;10/01/2022;M;Mineur;oui;oui;[-50k];Commercial;SUV;[N/A];Urban;[300-599];1
+1029;21/05/2022;M;[18-28];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];2
+1030;09/04/2022;M;[29-45];oui;oui;[100k-149k];Private;Van;[Moins de 10 ans];Urban;[Moins de 300];4
+1031;13/02/2022;F;[50-65];oui;oui;[50k-99k];Commercial;Pickup;[N/A];Urban;[800+];5
+1032;25/02/2022;M;[29-45];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];7
+1033;02/01/2022;F;[+65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];6
+1034;02/04/2022;M;[50-65];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];0
+1035;03/05/2022;M;[50-65];oui;oui;[N/A];Private;Pickup;[Moins de 10 ans];Rural;[300-599];2
+1036;25/04/2022;M;[50-65];oui;oui;[N/A];Private;Van;[N/A];Urban;[Moins de 300];1
+1037;08/03/2022;F;[29-45];oui;oui;[-50k];Private;Pickup;[N/A];Rural;[300-599];4
+1038;31/05/2022;F;[29-45];oui;oui;[-50k];Commercial;Minivan;[N/A];Urban;[300-599];6
+1039;21/01/2022;M;[29-45];oui;oui;[N/A];Commercial;Pickup;[Moins de 10 ans];Rural;[Moins de 300];0
+1040;27/04/2022;M;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[300-599];1
+1041;25/04/2022;F;[29-45];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+1042;05/03/2022;M;[+65];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[Moins de 300];0
+1043;21/01/2022;F;Mineur;oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+1044;25/04/2022;M;[29-45];oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Urban;[300-599];4
+1045;29/03/2022;M;[+65];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[Moins de 300];1
+1046;13/02/2022;M;[29-45];oui;oui;[-50k];Commercial;Sports Car;[10-20];Urban;[Moins de 300];6
+1047;11/02/2022;M;[29-45];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Rural;[Moins de 300];0
+1048;28/05/2022;F;[29-45];oui;oui;[-50k];Commercial;Panel Truck;[Moins de 10 ans];Rural;[Moins de 300];0
+1049;03/04/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];4
+1050;20/05/2022;F;[29-45];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];3
+1051;22/04/2022;M;[+65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+1052;29/01/2022;M;[+65];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];0
+1053;21/05/2022;M;[18-28];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];3
+1054;04/05/2022;M;[18-28];oui;oui;[N/A];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];0
+1055;25/01/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[300-599];4
+1056;27/01/2022;M;[+65];oui;oui;[50k-99k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[300-599];0
+1057;11/03/2022;M;[+65];oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[300-599];2
+1058;25/05/2022;F;[+65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Rural;[300-599];0
+1059;20/01/2022;F;[+65];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];1
+1060;22/04/2022;F;Mineur;oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];0
+1061;10/02/2022;F;[+65];oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];7
+1062;24/02/2022;M;[50-65];oui;oui;[+150k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];4
+1063;17/03/2022;F;[+65];oui;oui;[-50k];Private;Sports Car;[N/A];Urban;[Moins de 300];2
+1064;04/03/2022;F;[18-28];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[Moins de 300];4
+1065;20/04/2022;M;[29-45];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+1066;30/01/2022;F;[50-65];oui;oui;[50k-99k];Private;Van;[N/A];Urban;[Moins de 300];4
+1067;11/02/2022;M;[50-65];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[Moins de 300];3
+1068;05/03/2022;F;[+65];oui;oui;[50k-99k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];0
+1069;16/02/2022;F;[+65];oui;oui;[-50k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];7
+1070;25/01/2022;F;Mineur;oui;oui;[100k-149k];Private;Van;[N/A];Urban;[300-599];0
+1071;06/03/2022;F;[50-65];oui;oui;[100k-149k];Commercial;Pickup;[Moins de 10 ans];Rural;[Moins de 300];0
+1072;15/04/2022;F;[29-45];oui;oui;[-50k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];0
+1073;24/03/2022;M;[50-65];oui;oui;[100k-149k];Commercial;Van;[N/A];Rural;[300-599];0
+1074;06/02/2022;F;[29-45];oui;oui;[+150k];Commercial;Panel Truck;[N/A];Urban;[300-599];3
+1075;27/03/2022;F;[+65];oui;oui;[50k-99k];Commercial;Pickup;[N/A];Urban;[300-599];1
+1076;28/02/2022;F;[+65];oui;oui;[-50k];Private;Van;[N/A];Urban;[Moins de 300];0
+1077;17/02/2022;F;[29-45];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];0
+1078;21/03/2022;F;[50-65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];3
+1079;29/04/2022;F;[50-65];oui;oui;[-50k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[Moins de 300];0
+1080;21/04/2022;M;[18-28];oui;oui;[50k-99k];Private;Minivan;[10-20];Urban;[Moins de 300];5
+1081;19/01/2022;F;[18-28];oui;oui;[100k-149k];Commercial;Panel Truck;[Moins de 10 ans];Urban;[300-599];2
+1082;09/03/2022;M;[+65];oui;oui;[100k-149k];Private;Minivan;[N/A];Urban;[300-599];0
+1083;01/03/2022;M;[29-45];oui;oui;[50k-99k];Private;Sports Car;[N/A];Urban;[Moins de 300];3
+1084;25/02/2022;M;[18-28];oui;oui;[50k-99k];Private;SUV;[N/A];Urban;[Moins de 300];0
+1085;06/04/2022;F;[18-28];oui;oui;[50k-99k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];0
+1086;04/04/2022;F;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];4
+1087;04/02/2022;F;[29-45];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];5
+1088;06/01/2022;M;[+65];oui;oui;[N/A];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];2
+1089;15/03/2022;F;[18-28];oui;oui;[-50k];Private;SUV;[N/A];Urban;[300-599];0
+1090;23/01/2022;M;[50-65];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[Moins de 300];3
+1091;18/02/2022;M;[+65];oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];0
+1092;09/02/2022;F;[50-65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];8
+1093;07/04/2022;F;[29-45];oui;oui;[50k-99k];Commercial;Pickup;[Moins de 10 ans];Rural;[300-599];0
+1094;03/04/2022;F;[29-45];oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Rural;[300-599];0
+1095;01/03/2022;F;Mineur;oui;oui;[-50k];Commercial;Pickup;[N/A];Urban;[300-599];0
+1096;31/03/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];5
+1097;24/01/2022;F;[29-45];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];4
+1098;24/02/2022;F;[50-65];oui;oui;[100k-149k];Commercial;Panel Truck;[N/A];Rural;[Moins de 300];1
+1099;26/01/2022;M;Mineur;oui;oui;[100k-149k];Commercial;Minivan;[N/A];Urban;[Moins de 300];4
+1100;07/02/2022;M;[+65];oui;oui;[N/A];Commercial;SUV;[Moins de 10 ans];Urban;[Moins de 300];3
+1101;11/03/2022;M;[29-45];oui;oui;[+150k];Private;Van;[N/A];Urban;[800+];0
+1102;08/03/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];2
+1103;15/04/2022;M;[29-45];oui;oui;[100k-149k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];1
+1104;29/05/2022;F;[50-65];oui;oui;[50k-99k];Commercial;SUV;[Moins de 10 ans];Urban;[300-599];0
+1105;16/04/2022;M;Mineur;oui;oui;[100k-149k];Private;Minivan;[Moins de 10 ans];Rural;[Moins de 300];0
+1106;22/01/2022;M;Mineur;oui;oui;[100k-149k];Commercial;Panel Truck;[N/A];Urban;[Moins de 300];9
+1107;27/03/2022;M;Mineur;oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Urban;[300-599];0
+1108;04/01/2022;M;Mineur;oui;oui;[-50k];Private;SUV;[10-20];Urban;[Moins de 300];0
+1109;13/02/2022;F;[50-65];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[300-599];8
+1110;19/03/2022;M;[29-45];oui;oui;[100k-149k];Private;SUV;[N/A];Urban;[300-599];5
+1111;23/03/2022;M;[50-65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];1
+1112;24/02/2022;M;[29-45];oui;oui;[50k-99k];Private;Sports Car;[20 ans+];Urban;[Moins de 300];0
+1113;30/05/2022;M;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];1
+1114;02/03/2022;M;[+65];oui;oui;[-50k];Private;Van;[Moins de 10 ans];Urban;[Moins de 300];3
+1115;20/05/2022;F;[+65];oui;oui;[-50k];Private;Minivan;[N/A];Urban;[300-599];0
+1116;29/04/2022;F;[29-45];oui;oui;[50k-99k];Private;Pickup;[10-20];Urban;[300-599];0
+1117;25/01/2022;M;Mineur;oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[Moins de 300];1
+1118;03/03/2022;F;[29-45];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[300-599];1
+1119;16/02/2022;M;[+65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+1120;08/04/2022;F;[29-45];oui;oui;[50k-99k];Private;Minivan;[N/A];Urban;[300-599];1
+1121;24/05/2022;M;[18-28];oui;oui;[50k-99k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];0
+1122;02/03/2022;F;[50-65];oui;oui;[100k-149k];Commercial;Panel Truck;[N/A];Urban;[300-599];1
+1123;09/02/2022;F;[+65];oui;oui;[100k-149k];Commercial;Panel Truck;[N/A];Urban;[300-599];1
+1124;24/01/2022;M;[18-28];oui;oui;[-50k];Commercial;Minivan;[Moins de 10 ans];Urban;[300-599];2
+1125;20/03/2022;F;Mineur;oui;oui;[50k-99k];Commercial;Pickup;[N/A];Rural;[Moins de 300];0
+1126;16/03/2022;M;Mineur;oui;oui;[50k-99k];Private;Pickup;[N/A];Urban;[300-599];1
+1127;15/03/2022;M;[18-28];oui;oui;[-50k];Commercial;Minivan;[N/A];Rural;[Moins de 300];0
+1128;24/05/2022;F;Mineur;oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Rural;[300-599];0
+1129;26/03/2022;M;Mineur;oui;oui;[100k-149k];Private;SUV;[Moins de 10 ans];Urban;[300-599];4
+1130;28/05/2022;F;Mineur;oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[300-599];5
+1131;19/04/2022;F;[+65];oui;oui;[+150k];Private;SUV;[N/A];Urban;[300-599];1
+1132;04/04/2022;F;[29-45];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];0
+1133;25/01/2022;F;[29-45];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[Moins de 300];3
+1134;25/02/2022;F;[+65];oui;oui;[-50k];Private;SUV;[10-20];Rural;[300-599];1
+1135;07/03/2022;M;[29-45];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];0
+1136;11/05/2022;F;[+65];oui;oui;[-50k];Private;SUV;[N/A];Urban;[300-599];0
+1137;25/05/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[N/A];Urban;[Moins de 300];3
+1138;07/02/2022;F;Mineur;oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[300-599];10
+1139;02/03/2022;F;[50-65];oui;oui;[-50k];Private;SUV;[10-20];Urban;[Moins de 300];0
+1140;29/04/2022;M;Mineur;oui;oui;[-50k];Private;Pickup;[Moins de 10 ans];Urban;[300-599];3
+1141;27/02/2022;M;[+65];oui;oui;[-50k];Private;Sports Car;[N/A];Rural;[Moins de 300];0
+1142;10/02/2022;F;[+65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Rural;[Moins de 300];2
+1143;07/05/2022;F;[+65];oui;oui;[100k-149k];Private;Pickup;[20 ans+];Urban;[300-599];4
+1144;19/05/2022;F;[+65];oui;oui;[50k-99k];Commercial;Panel Truck;[N/A];Rural;[Moins de 300];0
+1145;24/03/2022;M;[+65];oui;oui;[-50k];Private;Sports Car;[Moins de 10 ans];Urban;[Moins de 300];2
+1146;18/01/2022;M;[50-65];oui;oui;[50k-99k];Private;Minivan;[20 ans+];Urban;[Moins de 300];3
+1147;14/03/2022;M;[+65];oui;oui;[50k-99k];Private;SUV;[Moins de 10 ans];Urban;[Moins de 300];7
+1148;25/01/2022;F;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[Moins de 300];0
+1149;02/05/2022;F;Mineur;oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];0
+1150;08/04/2022;M;[+65];oui;oui;[50k-99k];Commercial;Minivan;[10-20];Urban;[Moins de 300];7
+1151;17/05/2022;M;[50-65];oui;oui;[-50k];Commercial;Pickup;[Moins de 10 ans];Urban;[Moins de 300];3
+1152;20/02/2022;M;[+65];oui;oui;[100k-149k];Commercial;Panel Truck;[20 ans+];Urban;[300-599];5
+1153;03/01/2022;M;[+65];oui;oui;[-50k];Private;SUV;[Moins de 10 ans];Rural;[300-599];1
+1154;27/05/2022;F;[50-65];oui;oui;[100k-149k];Private;Minivan;[20 ans+];Urban;[Moins de 300];2
+1155;22/05/2022;M;Mineur;oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[Moins de 300];2
+1156;23/01/2022;F;[50-65];oui;oui;[50k-99k];Private;Minivan;[Moins de 10 ans];Urban;[300-599];3
+1157;19/01/2022;F;[+65];oui;oui;[50k-99k];Commercial;Van;[Moins de 10 ans];Urban;[300-599];6
+1158;08/05/2022;M;[+65];oui;oui;[-50k];Private;Minivan;[Moins de 10 ans];Rural;[300-599];0

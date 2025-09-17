@@ -88,13 +88,46 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
 
 ---
 
-## Video de formation à Tableau Public
+## Livrables du Projet
 
-Cliquez ci dessous pour acceder à la video de formation à Tableau Public sur le site Loom.
-Si besoin la video au format mp4 est également disponible dans le repertoire "Livrables"
-<a href="https://www.loom.com/share/e95503ef71d74ad8a8db1827e6f834ea">
-  <img src="./Livrables/video_miniature.jpg" alt="Voir la vidéo" width="600"/>
-</a>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🎥 Vidéo de formation à Tableau Public</h3>
+        <p>Cliquez ci-dessous pour accéder à la vidéo sur Loom.<br/>
+        (Version MP4 également disponible dans le répertoire <code>Livrables</code>.)</p>
+        <a href="https://www.loom.com/share/3bc89edc0bf74f6690a4ee4284048495">
+          <img src="./Livrables/video_miniature.jpg" alt="Voir la vidéo" width="300"/>
+        </a>
+        <details>
+          <summary>📄 Détails de la vidéo</summary>
+
+          Dans cette vidéo (22 min), je vous montre pas à pas comment créer deux graphiques avancés avec **Tableau Public** :
+          - **Un graphique en donut** (avec champ calculé pour normalisation à 100 %)
+          - **Un graphique de compétences (soft skills)** avec icônes, texte et barres de progression  
+          
+          Cette démonstration couvre :
+          - Le chargement et la préparation des données
+          - La construction des graphiques étape par étape
+          - Les ajustements visuels pour un rendu clair et esthétique
+          - Les bonnes pratiques de mise en page dans un tableau de bord
+        </details>
+      </td>
+
+      <td align="center" width="50%">
+        <h3>📊 Dashboards interactifs</h3>
+        <p>Cliquez ci-dessous pour voir les deux dashboards publiés sur Tableau Public.<br/>
+        (Copies également disponibles dans le répertoire <code>Livrables</code>.)</p>
+        <a href="https://public.tableau.com/views/Profilveille_V2/Prsentation?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+          <img src="./Livrables/dashboards_miniature.jpg" alt="Voir les Dashboards" width="300"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
 
 
 ## 📬 Contact
