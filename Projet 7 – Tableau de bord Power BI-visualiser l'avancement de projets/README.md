@@ -1,8 +1,8 @@
 # Projet 7 -- Tableau de bord de pilotage de projets (Sanitoral)
 
-::: {align="center"}
-`<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=300&fit=crop" alt="Project Management Dashboard" />`{=html}
-:::
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&h=300&fit=crop" alt="Paris Real Estate Analytics" />
+</div>
 
 ## Contexte et objectif
 
@@ -56,10 +56,9 @@ projet.
 -   Support d'aide à la décision pour prioriser les projets en
     difficulté.
 
-------------------------------------------------------------------------
-
-::: {align="center"}
-`<br/>`{=html} `<strong>`{=html}Julien Liodenot`</strong>`{=html} •
-Business Intelligence Analyst\
-© 2025 - Tous droits réservés
-:::
+---
+<div align="center">
+  <br/>
+  <strong>Julien Liodenot</strong> • Business Intelligence Analyst
+  © 2025 - Tous droits réservés
+</div>
