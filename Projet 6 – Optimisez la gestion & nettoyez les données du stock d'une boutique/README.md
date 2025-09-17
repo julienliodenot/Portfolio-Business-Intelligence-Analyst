@@ -1,90 +1,60 @@
-\# 🍷 Projet 6 – Optimisez la gestion \& nettoyez les données du stock d'une boutique
+# Projet 6 -- Optimisation de la qualité des données pour la gestion des stocks vinicoles
 
+<div align="center">
+<img src="https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=800&h=300&fit=crop" alt="Wine Data Analytics" />
+</div>
 
+## Contexte et objectif
 
-\## 🎯 Objectif du projet
+**Client fictif :** BottleNeck\
+**Objectif :** Améliorer la qualité et la fiabilité des données issues
+de l'ERP, du site e-commerce et de l'inventaire afin d'optimiser :\
+- La vision des stocks et des ventes par segment.\
+- Les décisions d'approvisionnement.\
+- La rentabilité globale de l'activité.
 
-Améliorer la \*\*gestion des stocks\*\* pour BottleNeck, un marchand de vin prestigieux, en :
+## Livrables du projet
 
-\- Consolidant plusieurs sources de données (ERP, site web, table de liaison),
+    BottleNeck-DataQuality-Solution/
+    ├── notebook_data_quality.ipynb   # Pipeline de nettoyage et consolidation
+    ├── presentation_codir.pdf        # Restitution et recommandations
+    ├── data/                         # Données sources et tables nettoyées
+    └── rapports_qualite/             # Rapports d’audit automatisés
 
-\- Identifiant et corrigeant les erreurs (saisie, jointure, typage),
+-   **Notebook d'analyse :** audit qualité, nettoyage et consolidation
+    multi-sources.\
+-   **Rapports d'audit :** scoring avant/après transformation.\
+-   **Présentation :** recommandations d'évolution et impacts attendus.
 
-\- Réalisant des analyses de CA, marges, rotation des stocks,
+## Méthodologie
 
-\- Proposant des recommandations d’amélioration pour l’ERP.
+1.  **Audit et profilage des données :** complétude, cohérence,
+    détection des doublons.\
+2.  **Nettoyage et standardisation :** normalisation formats, imputation
+    valeurs manquantes.\
+3.  **Consolidation :** jointures multi-sources et création d'un
+    référentiel produits unique.\
+4.  **Analyses business :** rotation des stocks, rentabilité par
+    segment, saisonnalité.
 
+## Points techniques
 
+-   Python / Pandas pour l'automatisation du pipeline de nettoyage.\
+-   Détection d'anomalies par méthodes statistiques.\
+-   Génération de rapports automatisés de data quality.
 
----
+## Résultats obtenus
 
-
-
-\## 📂 Contenu du dépôt
-
-\- `1\_notebook.ipynb` → Notebook Python ou R pour le rapprochement et le nettoyage des données.
-
-\- `2\_presentation.pdf` → Présentation des analyses et recommandations au CODIR.
-
-
-
----
-
-
-
-\## 🛠️ Compétences mobilisées
-
-\- \*\*Nettoyage et préparation des données\*\* : détection d’anomalies, gestion des incohérences.
-
-\- \*\*Analyses exploratoires\*\* : univariées et multivariées (CA, marges, stocks).
-
-\- \*\*Visualisation et détection de valeurs aberrantes\*\* : Z-Score, IQR, boxplots.
-
-\- \*\*Communication au CODIR\*\* : mise en avant des recommandations business.
-
-
-
----
-
-
-
-\## 🚀 Résultat
-
-\- Fichiers de données consolidés et fiabilisés,
-
-\- Recommandations pour améliorer les systèmes internes,
-
-\- Analyse du CA et des stocks servant de base à un futur projet de dataviz.
-
-
+-   Taux de complétude des données passé de 67 % à 94 %.\
+-   Élimination de 600+ doublons produits et correction des prix
+    incohérents.\
+-   Réduction de 75 % du temps d'analyse des stocks.\
+-   Identification de 187 k€ de surstock et recommandations pour
+    optimiser l'approvisionnement.
 
 ---
 
-
-
-\## 📚 Ressources
-
-\- \[Tutoriel Google Colab](https://colab.research.google.com/)
-
-\- \[Documentation Pandas](https://pandas.pydata.org/docs/)
-
-
-
----
-
-
-
-\## 🔗 Liens
-
-\- 🔗 \*\*Présentation complète du projet :\*\* \[Lien à ajouter](#)
-
-\- 🔗 \*\*Dossier principal Portfolio GitHub :\*\* \[Lien vers portfolio](#)
-
-
-
----
-
-© 2025 Julien Liodenot – Tous droits réservés.
-
-
-
+<div align="center">
+  <br/>
+  <strong>Julien Liodenot</strong> • Business Intelligence Analyst
+  © 2025 - Tous droits réservés
