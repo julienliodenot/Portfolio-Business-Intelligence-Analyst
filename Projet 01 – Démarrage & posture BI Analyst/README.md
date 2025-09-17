@@ -1,70 +1,57 @@
-\# 🏁 Projet 1 – Démarrage \& posture Business Intelligence Analyst
+# Projet 1 -- Fondations et posture Business Intelligence Analyst
 
+<div align="center">
+<img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=300&fit=crop" alt="Professional Development and Business Intelligence Foundation" />
+</div>
 
+## Contexte et objectif
 
-\## 🎯 Objectif du projet
+**Objectif :** Structurer la transition professionnelle vers le métier
+de Business Intelligence Analyst.
+- Clarifier la trajectoire professionnelle et définir un profil cible.
+- Identifier les compétences techniques et soft skills à acquérir.
+- Construire une roadmap d'apprentissage et un plan de développement.
 
-Poser les bases de mon parcours de \*\*Business Intelligence Analyst\*\* en :
+## Livrables du projet
 
-\- Découvrant le métier et les soft skills attendus,
+    BI-Career-Foundation-Project/
+    ├── fiche_formation.pdf           # Roadmap et objectifs SMART
+    ├── fiche_decouverte_metiers.pdf  # Analyse des métiers BI/Data
+    ├── grille_auto_evaluation.pdf    # Auto-évaluation et plan de progression
+    └── career-development/           # Suivi des compétences et mentoring
 
-\- Définissant mon \*\*objectif professionnel\*\* et les dates cibles de mes projets,
+-   **Fiche formation :** objectifs SMART, jalons et KPI de
+    progression.
+-   **Découverte métiers :** cartographie des rôles BI et compétences
+    associées.
+-   **Grille d'auto-évaluation :** évaluation 360° et plan de
+    développement.
 
-\- Choisissant les outils de collaboration avec mon mentor.
+## Méthodologie
 
+1.  Analyse du marché BI et identification des opportunités de
+    carrière.
+2.  Définition du profil cible et des compétences nécessaires.
+3.  Élaboration d'une roadmap d'apprentissage avec jalons
+    intermédiaires.
+4.  Mise en place d'un système de suivi des progrès et ajustements.
 
+## Points techniques et professionnels
 
----
+-   Auto-évaluation des compétences (hard et soft skills).
+-   Alignement avec les référentiels métiers (SQL, Power BI, Python).
+-   Développement de la posture professionnelle et personal branding.
 
+## Résultats obtenus
 
-
-\## 📂 Contenu du dépôt
-
-\- `1\_fiche\_formation.pdf` → Fiche de début de formation complétée.
-
-\- `2\_fiche\_decouverte\_metiers.pdf` → Découverte du métier et identification des soft skills clés.
-
-\- `3\_grille\_auto\_evaluation.pdf` → Auto-évaluation initiale.
-
-
-
----
-
-
-
-\## 🛠️ Compétences mobilisées
-
-\- \*\*Planification et organisation\*\* : structuration du parcours et définition d’un plan d’action.
-
-\- \*\*Communication \& introspection\*\* : explicitation de mes objectifs professionnels.
-
-\- \*\*Identification des soft skills clés\*\* : construction de la base de mon futur développement personnel.
-
-
-
----
-
-
-
-\## 🚀 Résultat
-
-Projet fondateur qui a permis d’adopter la \*\*posture professionnelle d’un BI Analyst\*\*, de clarifier les attentes et de préparer le reste du parcours.
-
-
+-   Clarification des objectifs professionnels et de la proposition de
+    valeur.
+-   Mise en place d'un plan structuré de montée en compétences.
+-   Adoption d'une posture professionnelle adaptée aux standards BI.
 
 ---
-
-
-
-\## 🔗 Liens
-
-\- 🔗 \*\*Présentation complète du projet :\*\* \[Lien à ajouter](#)
-
-\- 🔗 \*\*Dossier principal Portfolio GitHub :\*\* \[Lien vers portfolio](#)
-
-
-
----
-
-© 2025 Julien Liodenot – Tous droits réservés.
-
+<div align="center">
+  <br/>
+  <strong>Julien Liodenot</strong> • Business Intelligence Analyst
+  © 2025 - Tous droits réservés
+</div>

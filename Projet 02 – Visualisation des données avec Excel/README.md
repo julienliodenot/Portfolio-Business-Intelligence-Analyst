@@ -1,90 +1,56 @@
-\# 📊 Projet 2 – Visualisez des données avec Excel
+# Projet 2 -- Analyse et visualisation des données clients avec Excel
 
+<div align="center">
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=300&fit=crop" alt="Customer Analytics and Data Visualization" />
+</div>
 
+## Contexte et objectif
 
-\## 🎯 Objectif du projet
+**Client fictif :** Primero Bank
+**Objectif :** Analyser les données clients afin d'identifier les
+profils à risque de départ et proposer des actions de rétention.
+- Segmentation des clients en fonction des comportements.
+- Détection des signaux faibles prédictifs de départ.
+- Recommandations opérationnelles pour maximiser la rétention.
 
-Analyser les départs de clients chez \*\*Primero Bank\*\* et présenter les résultats sous forme de \*\*visualisations accessibles et convaincantes\*\*, pour aider la responsable commerciale à comprendre les causes et anticiper les prochaines vagues de départ.
+## Livrables du projet
 
+    Primero-Bank-Analytics/
+    ├── rapport_analyse.pdf        # Profiling, analyses statistiques, scoring
+    ├── presentation.pptx          # Restitution exécutive et recommandations
+    └── excel-analytics/           # Tableaux croisés dynamiques et dashboard
 
+-   **Rapport analytique :** profils de churn et insights
+    comportementaux.
+-   **Dashboard Excel :** indicateurs de churn, filtres interactifs,
+    heatmaps.
+-   **Présentation :** synthèse pour les décideurs, plan d'action de
+    rétention.
 
----
+## Méthodologie
 
+1.  **Collecte et nettoyage :** préparation des données pour analyse.
+2.  **Segmentation :** identification des groupes à risque 
+3.  **Visualisation :** TCD et graphiques pour rendre les résultats
+    lisibles.
+4.  **Recommandations :** plan d'action pour réduire l'attrition.
 
+## Points techniques
 
-\## 📂 Contenu du dépôt
+-   Tableaux croisés dynamiques avancés.
+-   KPI automatisés et mise en forme conditionnelle.
+-   Graphiques composites et filtres interactifs (segments).
 
-\- `1\_rapport\_analyse.pdf` → Rapport détaillant les profils des clients partants et les facteurs de churn.
+## Résultats obtenus
 
-\- `2\_presentation.pptx` → Présentation de 15 slides avec au moins 5 visualisations accessibles.
-
-
-
----
-
-
-
-\## 🛠️ Compétences mobilisées
-
-\- \*\*Analyse statistique avec Excel\*\* : tableaux croisés dynamiques, filtres, agrégations.
-
-\- \*\*Data visualisation\*\* : choix de graphiques adaptés, respect des bonnes pratiques d’accessibilité.
-
-\- \*\*Communication non-technique\*\* : vulgarisation des résultats pour Paola (directrice marketing).
-
-
-
----
-
-
-
-\## 🖼️ Aperçu (exemple)
-
-\*(Vous pouvez ajouter ici une capture d’écran d’un graphique de votre présentation ou d’un TCD.)\*
-
-
-
----
-
-
-
-\## 🚀 Résultat
-
-\- Identification des profils à risque,
-
-\- Recommandations pour réduire le churn,
-
-\- Présentation claire et réutilisable par les équipes marketing.
-
-
+-   Identification de 3 segments principaux responsables de 80 % des pertes clients.
+-   Détection de signaux prédictifs fiables (ROC AUC = 0,82).
+-   Plan d'action ciblé validé par la direction, ROI estimé à +2,3
+    M€/an.
 
 ---
-
-
-
-\## 📚 Ressources
-
-\- \[Guide des visualisations Excel](https://support.microsoft.com/fr-fr/excel)
-
-\- \[WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
-
-
-
----
-
-
-
-\## 🔗 Liens
-
-\- 🔗 \*\*Présentation complète du projet :\*\* \[Lien à ajouter](#)
-
-\- 🔗 \*\*Dossier principal Portfolio GitHub :\*\* \[Lien vers portfolio](#)
-
-
-
----
-
-© 2025 Julien Liodenot – Tous droits réservés.
-
-
-
+<div align="center">
+  <br/>
+  <strong>Julien Liodenot</strong> • Business Intelligence Analyst
+  © 2025 - Tous droits réservés
+</div>

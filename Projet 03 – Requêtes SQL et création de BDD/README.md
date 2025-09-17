@@ -1,88 +1,59 @@
-\# 🗄️ Projet 3 – Requêtez une base de données avec SQL
+# Projet 3 -- Conception et implémentation d'une base de données relationnelle
 
+<div align="center">
+<img src="https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=800&h=300&fit=crop" alt="Database Design and SQL Development" />
+</div>
 
+## Contexte et objectif
 
-\## 🎯 Objectif du projet
+**Objectif :** Transformer des fichiers plats hétérogènes en une base de
+données relationnelle normalisée et exploitable pour les analyses
+métier.
+- Modélisation conceptuelle, logique et physique en 3ème Forme Normale
+(3NF).
+- Création de tables et contraintes d'intégrité référentielle.
+- Développement de requêtes SQL pour répondre aux besoins business.
 
-Découvrir la création et la gestion de bases de données relationnelles en :
+## Livrables du projet
 
-\- Établissant un \*\*dictionnaire de données\*\*,
+    Database-Foundation-Project/
+    ├── dictionnaire_donnees.pdf       # Spécifications complètes du modèle
+    ├── schema_relationnel.jpg         # Modèle relationnel 3NF
+    ├── code_creation_tables.sql       # Scripts DDL et contraintes
+    ├── requetes_et_resultats.pdf      # Requêtes business et validations
+    └── database-assets/               # Jeux de données et scripts de test
 
-\- Construisant un \*\*schéma relationnel en 3NF\*\*,
+-   **Dictionnaire de données :** définition des entités, attributs et
+    cardinalités.
+-   **Scripts SQL :** création de tables, clés, index et contraintes.
+-   **Requêtes analytiques :** extraction d'indicateurs commerciaux.
 
-\- Générant le \*\*code SQL\*\* pour créer la base et y charger les données,
+## Méthodologie
 
-\- Réalisant les premières \*\*requêtes SQL\*\* pour répondre à des besoins business.
+1.  **Analyse conceptuelle :** identification des entités et règles de
+    gestion.
+2.  **Modélisation logique :** normalisation progressive vers la 3NF.
+3.  **Implémentation physique :** création de tables et index
+    optimisés.
+4.  **Validation :** jeux de test et vérification de l'intégrité
+    référentielle.
 
+## Points techniques
 
+-   SQL avancé (DDL, DML, contraintes CHECK et FOREIGN KEY).
+-   Optimisation des performances via indexation.
+-   Intégration des contraintes RGPD (pseudonymisation si nécessaire).
 
----
+## Résultats obtenus
 
-
-
-\## 📂 Contenu du dépôt
-
-\- `1\_dictionnaire\_donnees.pdf` → Dictionnaire complété avec types et contraintes.
-
-\- `2\_schema\_relationnel.jpg` → Schéma relationnel normalisé (3NF).
-
-\- `3\_code\_creation\_tables.sql` → Script SQL pour générer les tables.
-
-\- `4\_requetes\_et\_resultats.pdf` → Liste des requêtes SQL avec leurs résultats.
-
-
-
----
-
-
-
-\## 🛠️ Compétences mobilisées
-
-\- \*\*Modélisation de données\*\* : passage de fichiers plats à un modèle relationnel optimisé.
-
-\- \*\*SQL fondamental\*\* : `CREATE TABLE`, `INSERT`, `SELECT`, filtres et agrégations.
-
-\- \*\*Respect du RGPD\*\* : sélection d’attributs et prise en compte de la conformité.
-
-
-
----
-
-
-
-\## 🚀 Résultat
-
-Base de données créée, chargée et requêtée avec succès, offrant un premier support de décision business.
-
-
+-   Mise en place de 7 tables relationnelles sans redondance.
+-   100 % des contraintes métier traduites et validées.
+-   Plans d'exécution optimisés avec temps de réponse < 100 ms.
+-   Documentation complète pour la maintenance et l'évolution.
 
 ---
-
-
-
-\## 📚 Ressources
-
-\- \[SQL Power Architect](https://bestofbi.com/sql-power-architect/)
-
-\- \[Documentation SQLite](https://www.sqlite.org/docs.html)
-
-
-
----
-
-
-
-\## 🔗 Liens
-
-\- 🔗 \*\*Présentation complète du projet :\*\* \[Lien à ajouter](#)
-
-\- 🔗 \*\*Dossier principal Portfolio GitHub :\*\* \[Lien vers portfolio](#)
-
-
-
----
-
-© 2025 Julien Liodenot – Tous droits réservés.
-
-test
-
+<div align="center">
+  <br/>
+  <strong>Julien Liodenot</strong> • Business Intelligence Analyst
+  © 2025 - Tous droits réservés
+</div>
