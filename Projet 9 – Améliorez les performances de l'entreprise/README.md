@@ -14,19 +14,16 @@
 
 ## Objectifs de la mission
 
-<img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=50&h=50&fit=crop" alt="KPI" align="left" style="margin-right: 10px;" />
 
 **Définition des indicateurs clés**
 - Identification des KPI critiques pour la performance
 - Mise en place de métriques de suivi en temps réel
 
-<img src="https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=50&h=50&fit=crop" alt="Data Pipeline" align="left" style="margin-right: 10px;" />
 
 **Architecture data optimale**
 - Étude comparative des solutions d'intégration
 - Recommandation technique argumentée (ETL vs connexion directe vs CSV)
 
-<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=50&h=50&fit=crop" alt="Strategy" align="left" style="margin-right: 10px;" />
 
 **Pilotage stratégique**
 - Tableau de bord interactif pour dirigeants
@@ -110,13 +107,13 @@
 
 ## Expertises techniques mobilisées
 
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=40&h=40&fit=crop" alt="ETL" /> **Ingénierie des données** : Maîtrise Knime pour pipelines ETL robustes
+ **Ingénierie des données** : Maîtrise Knime pour pipelines ETL robustes
 
-<img src="https://images.unsplash.com/photo-1551434678-e076c223a692?w=40&h=40&fit=crop" alt="Power BI" /> **Business Intelligence** : Expertise Power BI avancée avec DAX et modélisation
+ **Business Intelligence** : Expertise Power BI avancée avec DAX et modélisation
 
-<img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=40&h=40&fit=crop" alt="Architecture" /> **Architecture décisionnelle** : Conception solutions scalables et performantes
+ **Architecture décisionnelle** : Conception solutions scalables et performantes
 
-<img src="https://images.unsplash.com/photo-1553877522-43269d4ea984?w=40&h=40&fit=crop" alt="Strategy" /> **Conseil stratégique** : Transformation data en recommandations actionnables
+ **Conseil stratégique** : Transformation data en recommandations actionnables
 
 ## Impact business réalisé
 
@@ -153,24 +150,10 @@
 - [Meilleures pratiques ETL et Data Quality](https://www.kimballgroup.com/)
 - [Méthodologie Agile BI](https://www.agilebi.org/)
 
-## Navigation projet
-
-<div align="center">
-
-[![Voir le dashboard](https://img.shields.io/badge/Dashboard-Ouvrir%20Power%20BI-orange?style=for-the-badge&logo=powerbi)](lien-vers-dashboard)
-[![Portfolio complet](https://img.shields.io/badge/Portfolio-Tous%20les%20projets-blue?style=for-the-badge)](lien-vers-portfolio)
-[![Télécharger workflow](https://img.shields.io/badge/Knime-Télécharger%20KNWF-green?style=for-the-badge&logo=knime)](lien-vers-workflow)
-
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=30&h=30&fit=crop" alt="Profile" />
   <br/>
-  <strong>Julien Liodenot</strong> • Expert Business Intelligence & Data Architecture
-  <br/>
-  💼 Spécialisé en transformation digitale et aide à la décision
-  <br/>
+  <strong>Julien Liodenot</strong> • Business Intelligence Analyst
   © 2025 - Tous droits réservés
 </div>

@@ -14,19 +14,15 @@
 
 ## Objectifs de transformation digitale
 
-<img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=50&h=50&fit=crop" alt="Real-time monitoring" align="left" style="margin-right: 10px;" />
-
 **Pilotage temps réel des projets**
 - Suivi d'avancement multiprojet centralisé
 - Alertes automatiques sur dérives planning et budget
 
-<img src="https://images.unsplash.com/photo-1553877522-43269d4ea984?w=50&h=50&fit=crop" alt="Performance detection" align="left" style="margin-right: 10px;" />
 
 **Détection prédictive des risques**
 - Identification proactive des retards et dérives
 - Scoring automatique de la santé projet
 
-<img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=50&h=50&fit=crop" alt="Decision support" align="left" style="margin-right: 10px;" />
 
 **Aide à la décision exécutive**
 - Indicateurs synthétiques pour CODIR
@@ -110,15 +106,15 @@
 </tr>
 </table>
 
-## Excellence technique Power BI
+## Technique Power BI
 
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=40&h=40&fit=crop" alt="Power Query" /> **Power Query avancé** : ETL automatisé avec gestion erreurs et refresh incrémental
+**Power Query avancé** : ETL automatisé avec gestion erreurs et refresh incrémental
 
-<img src="https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=40&h=40&fit=crop" alt="DAX" /> **DAX & Modélisation** : Mesures complexes, time intelligence et optimisation performance
+**DAX & Modélisation** : Mesures complexes, time intelligence et optimisation performance
 
-<img src="https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=40&h=40&fit=crop" alt="UX Design" /> **UX/UI Design** : Interface intuitive respectant les principes de data visualization
+**UX/UI Design** : Interface intuitive respectant les principes de data visualization
 
-<img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=40&h=40&fit=crop" alt="Project Management" /> **Gestion de projet** : Méthode agile avec sprints et livraisons itératives
+**Gestion de projet** : Méthode agile avec sprints et livraisons itératives
 
 ## Impact business et ROI
 
@@ -172,24 +168,10 @@
 - [Power BI Community & Best Practices](https://community.powerbi.com/)
 - [Agile BI Methodology](https://www.agilealliance.org/agile101/)
 
-## Accès aux livrables
-
-<div align="center">
-
-[![Ouvrir le Dashboard](https://img.shields.io/badge/Power%20BI-Voir%20le%20tableau%20de%20bord-orange?style=for-the-badge&logo=powerbi)](lien-vers-dashboard)
-[![Documentation technique](https://img.shields.io/badge/PDF-Guide%20technique%20complet-red?style=for-the-badge&logo=adobe)](lien-vers-doc)
-[![Portfolio complet](https://img.shields.io/badge/Portfolio-Découvrir%20tous%20mes%20projets-blue?style=for-the-badge)](lien-vers-portfolio)
-
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=30&h=30&fit=crop" alt="Profile" />
   <br/>
-  <strong>Julien Liodenot</strong> • Expert Power BI & Solutions de Pilotage
-  <br/>
-  📊 Spécialisé en transformation digitale des processus de gouvernance
-  <br/>
+  <strong>Julien Liodenot</strong> • Business Intelligence Analyst
   © 2025 - Tous droits réservés
 </div>

@@ -14,19 +14,13 @@
 
 ## Objectifs analytiques
 
-<img src="https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=50&h=50&fit=crop" alt="Market Analysis" align="left" style="margin-right: 10px;" />
-
 **Analyse de marché approfondie**
 - Cartographie de l'évolution des prix au m² parisiens (2017-2021)
 - Identification des tendances post-pandémie et zones d'opportunité
 
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=50&h=50&fit=crop" alt="Prediction Model" align="left" style="margin-right: 10px;" />
-
 **Modélisation prédictive**
 - Régression linéaire pour estimation automatique des valorisations
 - Objectif : précision > 90% pour fiabiliser les projections ROI
-
-<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=50&h=50&fit=crop" alt="Clustering" align="left" style="margin-right: 10px;" />
 
 **Segmentation intelligente**
 - Classification automatique des biens par K-Means
@@ -113,13 +107,13 @@
 
 ## Compétences data science déployées
 
-<img src="https://images.unsplash.com/photo-1526379879527-8559ecfcaec0?w=40&h=40&fit=crop" alt="Python" /> **Python avancé** : Maîtrise ecosystème data (Pandas, NumPy, Scikit-learn, Matplotlib)
+ **Python avancé** : Maîtrise ecosystème data (Pandas, NumPy, Scikit-learn, Matplotlib)
 
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=40&h=40&fit=crop" alt="ML" /> **Machine Learning** : Régression linéaire optimisée et clustering K-Means
+ **Machine Learning** : Régression linéaire optimisée et clustering K-Means
 
-<img src="https://images.unsplash.com/photo-1543286386-713bdd548da4?w=40&h=40&fit=crop" alt="Statistics" /> **Statistiques appliquées** : Tests d'hypothèses, validation de modèles, analyse multivariée
+ **Statistiques appliquées** : Tests d'hypothèses, validation de modèles, analyse multivariée
 
-<img src="https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=40&h=40&fit=crop" alt="Communication" /> **Data storytelling** : Vulgarisation technique pour décideurs non-techniques
+ **Data storytelling** : Vulgarisation technique pour décideurs non-techniques
 
 ## Résultats et impact business
 
@@ -169,24 +163,11 @@
 - [K-Means Clustering Best Practices](https://scikit-learn.org/stable/modules/clustering.html#k-means)
 - [Real Estate Analytics with Python](https://realpython.com/python-data-analysis/)
 
-## Navigation et délivrables
-
-<div align="center">
-
-[![Ouvrir le Notebook](https://img.shields.io/badge/Jupyter-Voir%20l'analyse%20complète-orange?style=for-the-badge&logo=jupyter)](lien-vers-notebook)
-[![Télécharger présentation](https://img.shields.io/badge/PowerPoint-Restitution%20direction-red?style=for-the-badge&logo=microsoft)](lien-vers-presentation)
-[![Portfolio complet](https://img.shields.io/badge/Portfolio-Tous%20mes%20projets-blue?style=for-the-badge)](lien-vers-portfolio)
-
-</div>
 
 ---
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=30&h=30&fit=crop" alt="Profile" />
   <br/>
-  <strong>Julien Liodenot</strong> • Data Scientist & Real Estate Analytics Expert
-  <br/>
-  🏠 Spécialisé en modélisation prédictive et intelligence d'affaires immobilière
-  <br/>
+  <strong>Julien Liodenot</strong> • Business Intelligence Analyst
   © 2025 - Tous droits réservés
 </div>
