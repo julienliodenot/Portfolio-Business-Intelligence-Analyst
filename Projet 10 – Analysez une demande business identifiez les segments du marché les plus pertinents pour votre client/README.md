@@ -1,124 +1,61 @@
-# Projet 10 – Analyse stratégique du marché vidéoludique pour UOI Games
+# Projet 10 -- Analyse stratégique du marché vidéoludique pour UOI Games
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1556438064-2d7646166914?w=800&h=300&fit=crop" alt="Gaming Market Analysis" />
+<img src="https://images.unsplash.com/photo-1556438064-2d7646166914?w=800&h=300&fit=crop" alt="Gaming Market Analysis" />
 </div>
 
-## Vue d'ensemble
+## Contexte et objectif
 
-**Contexte :** Mission d'analyse stratégique pour **UOI Games**, studio émergent souhaitant percer sur le marché des jeux vidéo AAA.
+**Client fictif :** UOI Games\
+**Objectif :** Identifier le segment de marché le plus pertinent pour le
+lancement d'un jeu AAA et proposer une stratégie de positionnement.\
+- Analyse des tendances de ventes par plateforme et genre.\
+- Diagnostic SWOT et PESTEL du marché et de l'entreprise.\
+- Recommandations chiffrées pour orienter le développement et le
+lancement.
 
-**Enjeu :** Identifier le segment de marché le plus rentable et définir une stratégie de lancement optimale dans un écosystème gaming ultra-concurrentiel.
+## Livrables du projet
 
-## Objectifs de l'analyse
+    Projet-10-UOI-Games/
+    ├── analyses.ipynb               # Analyses quantitatives et segmentation
+    ├── presentation_strategique.pptx # Restitution pour le comité de direction
+    ├── data/                        # Jeux de données sources
+    └── README.md                    # Documentation projet
 
-**Analyse de marché approfondie**
-- Cartographie des tendances actuelles et émergentes
-- Étude comparative des segments par plateforme, genre et démographie
+-   **Notebook d'analyse :** exploration des données de ventes,
+    corrélations, segmentation.\
+-   **Présentation stratégique :** matrices SWOT et PESTEL, synthèse des
+    insights et recommandations.\
+-   **Données nettoyées :** datasets enrichis avec tendances marché
+    récentes.
 
+## Méthodologie
 
-**Diagnostic stratégique**
-- Analyse SWOT complète de UOI Games
-- Étude PESTEL de l'environnement gaming
+1.  **Collecte et préparation des données :** Kaggle, VGChartz, SELL,
+    PEGI.\
+2.  **Analyse exploratoire :** tendances par genre et plateforme,
+    corrélations multi-variées.\
+3.  **Diagnostic stratégique :** SWOT et PESTEL, benchmarking des
+    concurrents.\
+4.  **Recommandations :** choix du segment cible et stratégie de
+    lancement (roadmap).
 
+## Points techniques
 
-**Recommandations opérationnelles**
-- Sélection du segment cible prioritaire
-- Concept de jeu aligné sur les opportunités identifiées
+-   Nettoyage et normalisation des datasets.\
+-   Visualisations (bar charts, heatmaps, scatter plots interactifs).\
+-   Tests de corrélation et analyses statistiques.\
+-   Synthèse des résultats en support de décision pour le comité
+    exécutif.
 
-## Structure du projet
+## Résultats obtenus
 
-```
-📦 Projet-10-UOI-Games/
-├── 📊 1_analyses.ipynb          # Analyses quantitatives et segmentation
-├── 🎯 2_presentation.pptx       # Support de présentation exécutive
-├── 📈 data/                     # Jeux de données sources
-└── 📋 README.md                 # Documentation projet
-```
-
-### Détail des livrables
-
-**Notebook d'analyse** (`1_analyses.ipynb`)
-- Exploration des données de ventes mondiales
-- Tests statistiques et analyse de corrélations
-- Segmentation démographique et comportementale
-- Visualisations interactives des tendances marché
-
-**Présentation stratégique** (`2_presentation.pptx`)
-- Synthèse exécutive pour le comité de direction
-- Matrices SWOT et PESTEL argumentées
-- Recommandations chiffrées et roadmap de lancement
-- Concept de jeu avec estimations de performance
-
-## Méthodologie appliquée
-
-<table>
-<tr>
-<td width="50%">
-
-**Collecte et traitement des données**
-- Sources : Kaggle, VGChartz, rapports SELL/PEGI
-- Nettoyage et normalisation des datasets
-- Enrichissement avec données marché récentes
-
-</td>
-<td width="50%">
-
-**Analyses statistiques**
-- Tests de corrélation multi-variés
-- Segmentation par clustering
-- Modélisation prédictive des ventes
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Diagnostic stratégique**
-- Benchmarking concurrentiel
-- Analyse des forces/faiblesses internes
-- Cartographie des opportunités marché
-
-</td>
-<td>
-
-**Data storytelling**
-- Visualisations percutantes
-- Narration orientée décision
-- Recommandations actionnables
-
-</td>
-</tr>
-</table>
-
-## Compétences démontrées
-
- **Business Intelligence** : Transformation de données brutes en insights stratégiques
-
- **Analyse statistique** : Validation d'hypothèses par tests de significativité
-
- **Communication exécutive** : Synthèse de recommandations pour dirigeants
-
- **Stratégie d'entreprise** : Diagnostic SWOT/PESTEL et positionnement marché
-
-## Résultats clés
-
-### Impact business
-- **Segment prioritaire identifié** avec potentiel de revenus estimé à 15-25M€
-- **Concept de jeu validé** par l'analyse des préférences cibles
-- **Stratégie go-to-market** avec jalons de performance
-
-### Livrables décisionnels
-- Dashboard de suivi KPI marché gaming
-- Matrice de priorisation des opportunités
-- Business case complet avec projections financières
-
-## Sources et références
-
-- [Kaggle Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
-- [Syndicat des Éditeurs de Logiciels de Loisirs (SELL)](https://www.sell.fr/)
-- [Rapports PEGI sur les tendances gaming](https://pegi.info/)
-- [Newzoo Global Games Market Report](https://newzoo.com/)
+-   Identification d'un segment prioritaire avec potentiel estimé entre
+    15 et 25 M€.\
+-   Définition d'un concept de jeu aligné avec les préférences du marché
+    cible.\
+-   Élaboration d'une stratégie de lancement avec jalons et projections
+    financières.
 
 ---
 
