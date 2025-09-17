@@ -6,11 +6,11 @@
 
 ## Contexte et objectif
 
-**Client fictif :** Sanitoral\
+**Client fictif :** Sanitoral
 **Objectif :** Développer un tableau de bord interactif dans **Power
-BI** permettant :\
-- Le suivi en temps réel de l'avancement de plusieurs projets.\
-- La détection rapide des retards et dépassements budgétaires.\
+BI** permettant :
+- Le suivi en temps réel de l'avancement de plusieurs projets.
+- La détection rapide des retards et dépassements budgétaires.
 - Une meilleure communication auprès de la direction et des chefs de
 projet.
 
@@ -22,37 +22,37 @@ projet.
     ├── documentation.pdf          # Guide d’utilisation et d’évolution
 
 -   **Dashboard Power BI :** suivi multiprojet avec indicateurs clés
-    (avancement, budget, ressources).\
+    (avancement, budget, ressources).
 -   **Documentation :** description du modèle de données, des
-    transformations (Power Query) et des principales mesures DAX.\
+    transformations (Power Query) et des principales mesures DAX.
 -   **Présentation :** synthèse de la démarche et recommandations pour
     l'entreprise.
 
 ## Méthodologie
 
 1.  **Analyse du besoin** : identification des KPI et des sources de
-    données.\
+    données.
 2.  **Préparation des données** : création d'un modèle en étoile simple
-    et automatisation ETL (Power Query).\
+    et automatisation ETL (Power Query).
 3.  **Conception du dashboard** : pages "Vue d'ensemble" et "Détail par
-    projet" avec filtres interactifs.\
+    projet" avec filtres interactifs.
 4.  **Tests et ajustements** : vérification de la cohérence des données
     et de l'ergonomie.
 
 ## Points techniques
 
 -   **Power Query :** nettoyage et transformation automatisés, gestion
-    des erreurs.\
+    des erreurs.
 -   **DAX :** mesures pour calculer l'avancement, le reste à faire et la
-    projection budgétaire.\
+    projection budgétaire.
 -   **Design UX :** respect des principes de lisibilité et mise en avant
     des alertes (vert / orange / rouge).
 
 ## Résultats obtenus
 
--   Visibilité immédiate sur l'état d'avancement de tous les projets.\
+-   Visibilité immédiate sur l'état d'avancement de tous les projets.
 -   Réduction du temps de reporting hebdomadaire grâce à
-    l'automatisation.\
+    l'automatisation.
 -   Support d'aide à la décision pour prioriser les projets en
     difficulté.
 
