@@ -6,53 +6,49 @@
 
 ## Contexte et objectif
 
-**Client fictif :** Les Plus Beaux Logis de Paris\
+**Client fictif :** Les Plus Beaux Logis de Paris
+<br>
 **Objectif :** Développer un modèle d'analyse prédictive pour évaluer le
-potentiel d'investissement immobilier à Paris.\
-- Étudier l'évolution des prix au m² par arrondissement.\
-- Identifier les zones d'opportunité post-COVID.\
+potentiel d'investissement immobilier à Paris.
+- Étudier l'évolution des prix au m² par arrondissement.
+- Identifier les zones d'opportunité post-COVID.
 - Fournir des estimations de valorisation fiables et rapides.
 
 ## Livrables du projet
 
-    Paris-RealEstate-Analytics/
-    ├── notebook_analyse.ipynb       # Analyse exploratoire et modélisation
-    ├── presentation_resultats.pptx  # Restitution synthétique
-    ├── data/                        # Données sources
-    ├── README.md                    # Documentation projet
+    ├── notebook.ipynb       # Analyse exploratoire et modélisation
+    ├── presentation.pptx  # Restitution synthétique
 
 -   **Notebook d'analyse :** exploration des données, régression
-    linéaire, clustering K-Means.\
--   **Présentation :** synthèse des tendances et recommandations.\
+    linéaire, clustering K-Means.
+-   **Présentation :** synthèse des tendances et recommandations.
 -   **Jeux de données :** transactions immobilières parisiennes
     nettoyées et prêtes à l'emploi.
 
 ## Méthodologie
 
 1.  **Analyse exploratoire :** cartographie des prix, corrélations,
-    détection d'outliers.\
+    détection d'outliers.
 2.  **Modélisation prédictive :** régression linéaire avec validation
-    croisée (train/test).\
+    croisée (train/test).
 3.  **Segmentation :** classification K-Means pour regrouper les biens
-    en segments cohérents.\
+    en segments cohérents.
 4.  **Restitution :** création de graphiques et présentation pour les
     décideurs.
 
 ## Points techniques
 
 -   Python (Pandas, NumPy) pour la préparation et l'analyse des
-    données.\
--   Scikit-learn pour la modélisation (régression, clustering).\
--   Visualisations avec Matplotlib/Seaborn.\
+    données.
+-   Scikit-learn pour la modélisation (régression, clustering).
+-   Visualisations avec Matplotlib/Seaborn.
 -   Validation des modèles avec R², RMSE et analyse des résidus.
 
 ## Résultats obtenus
 
--   Précision de prédiction supérieure à 85 % (R² ≈ 0.87).\
+-   Précision de prédiction supérieure à 85 % (R² ≈ 0.87).
 -   Segmentation automatique en 5 groupes de biens selon prix et
-    surface.\
--   Réduction du temps d'analyse manuelle d'un bien de 4 heures à moins
-    d'une heure.\
+    surface.
 -   Identification de zones d'investissement prioritaires à fort
     potentiel.
 
