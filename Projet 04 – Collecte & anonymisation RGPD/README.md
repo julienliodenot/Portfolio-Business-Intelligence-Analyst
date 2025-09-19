@@ -1,7 +1,7 @@
 # Projet 4 -- Mise en conformité RGPD et gouvernance des données
 
 <div align="center">
-<img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&h=300&fit=crop" alt="GDPR Compliance & Data Privacy" />
+<img src="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&h=300&fit=crop" alt="RGPD" />
 </div>
 
 ## Contexte et objectif
@@ -17,12 +17,12 @@ données.
 
 ## Livrables du projet
 
-    DevImmediat-GDPR-Compliance/
+
     ├── recommandations_RGPD.pdf     # Plan de mise en conformité et roadmap
     ├── donnees_anonymisees.csv      # Dataset anonymisé et validé
-    ├── rapport_preparation.pdf      # Méthodologie et documentation technique
-    ├── privacy-framework/           # Registre des traitements, bases légales
-    └── compliance-monitoring/       # KPI de suivi et journaux d’accès
+    ├── rapport.pdf                  # Rapport et documentation technique
+    ├── methodologie                 # Méthodologie suivie
+
 
 -   **Plan de mise en conformité :** audit, gap analysis et
     recommandations prioritaires.
@@ -30,8 +30,6 @@ données.
     et auditable.
 -   **Documentation technique :** pipeline d'anonymisation et contrôles
     qualité.
--   **Tableau de bord conformité :** suivi des KPI (demandes d'accès,
-    incidents).
 
 ## Méthodologie
 
@@ -46,7 +44,7 @@ données.
 
 ## Points techniques
 
--   Techniques d'anonymisation : k-anonymité, l-diversité, t-closeness.
+-   Techniques d'anonymisation 
 -   Automatisation ETL sous Power Query pour la reproductibilité.
 -   Sécurité : chiffrement des données, contrôle RBAC et journaux
     d'accès.
@@ -55,8 +53,6 @@ données.
 
 -   Conformité RGPD validée par audit externe.
 -   Réduction du risque de sanction financière (jusqu'à 4 % du CA).
--   46 000+ enregistrements traités et rendus exploitables pour
-    l'analyse business.
 -   Mise en place d'un cadre de gouvernance pérenne et formation de 100
     % des collaborateurs concernés.
 
