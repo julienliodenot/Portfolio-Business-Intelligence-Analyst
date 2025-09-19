@@ -19,7 +19,7 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
 
 ### [Projet 1 – Démarrage & posture BI Analyst](./Projet%2001%20–%20Démarrage%20&%20posture%20BI%20Analyst/)  
 <img src="https://www.pinclipart.com/picdir/middle/376-3766580_1024-x-1024-3-push-pin-icon-png.png" alt="Pin" width="20" height="20"/>Fiche de formation, découverte du métier, auto-évaluation des soft skills.  
-<img src="https://freepngimg.com/thumb/target/14-2-target-free-download-png.png" alt="Target" width="20" height="20"/>**Compétences :** organisation, définition d’objectifs, collaboration mentorale.  
+<img src="https://www.pinclipart.com/picdir/big/528-5282914_transparent-pin-clipart-red-pin-icon-png-download.png" alt="Target" width="20" height="20"/> **Compétences :** organisation, définition d’objectifs, collaboration mentorale.  
 
 ---
 
