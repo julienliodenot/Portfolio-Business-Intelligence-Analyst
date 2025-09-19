@@ -1,7 +1,7 @@
 # Projet 1 -- Fondations et posture Business Intelligence Analyst
 
 <div align="center">
-<img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=300&fit=crop" alt="Professional Development and Business Intelligence Foundation" />
+<img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=300&fit=crop" alt="Professional Development and Business Intelligence Foundation" />
 </div>
 
 ## Contexte et objectif
@@ -14,7 +14,7 @@ de Business Intelligence Analyst.
 
 ## Livrables du projet
 
-    BI-Career-Foundation-Project/
+    
     ├── fiche_formation.pdf           # Roadmap et objectifs SMART
     ├── fiche_decouverte_metiers.pdf  # Analyse des métiers BI/Data
     ├── grille_auto_evaluation.pdf    # Auto-évaluation et plan de progression
