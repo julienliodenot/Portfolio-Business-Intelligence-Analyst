@@ -18,8 +18,8 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
 ## 🚀 Projets
 
 ### [Projet 1 – Démarrage & posture BI Analyst](./Projet%2001%20–%20Démarrage%20&%20posture%20BI%20Analyst/)  
-<img src="https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=20&h=20&fit=crop" alt="Pin" />Fiche de formation, découverte du métier, auto-évaluation des soft skills.  
-<img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=20&h=20&fit=crop" alt="Target" />**Compétences :** organisation, définition d’objectifs, collaboration mentorale.  
+<img src="https://www.pinclipart.com/picdir/middle/376-3766580_1024-x-1024-3-push-pin-icon-png.png" alt="Pin" width="20" height="20"/>Fiche de formation, découverte du métier, auto-évaluation des soft skills.  
+<img src="https://freepngimg.com/thumb/target/14-2-target-free-download-png.png" alt="Target" width="20" height="20"/>**Compétences :** organisation, définition d’objectifs, collaboration mentorale.  
 
 ---
 
@@ -28,67 +28,7 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
 🎯 **Compétences :** data visualisation, accessibilité, communication non-technique.  
 
 ---
-<!-- Option 1 : Épingle rouge classique -->
-<img src="https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=20&h=20&fit=crop" alt="Pin" />
 
-<!-- Option 2 : Punaise sur carte -->
-<img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=20&h=20&fit=crop" alt="Pin" />
-
-<!-- Option 3 : Marqueur de localisation -->
-<img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?w=20&h=20&fit=crop" alt="Pin" />
-
-<!-- Option 4 : Pin géolocalisation -->
-<img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?w=20&h=20&fit=crop" alt="Pin" />
-
-<!-- Option 5 : Épingle dorée -->
-<img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=20&h=20&fit=crop" alt="Pin" />
-
-<!-- Option 6 : Marqueur rouge sur fond blanc -->
-<img src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=20&h=20&fit=crop" alt="Pin" />
-
-<!-- Option 7 : Pin avec ombre -->
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=20&h=20&fit=crop" alt="Pin" />
-
-<!-- Option 8 : Épingle colorée -->
-<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=20&h=20&fit=crop" alt="Pin" />
-
-<!-- Option 9 : Marqueur simple -->
-<img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=20&h=20&fit=crop" alt="Pin" />
-
-<!-- Option 10 : Pin métallique -->
-<img src="https://images.unsplash.com/photo-1553877522-43269d4ea984?w=20&h=20&fit=crop" alt="Pin" />
-
----
-<!-- Option 1 : Cible classique -->
-<img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=20&h=20&fit=crop" alt="Target" />
-
-<!-- Option 2 : Bullseye rouge et blanc -->
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=20&h=20&fit=crop" alt="Target" />
-
-<!-- Option 3 : Cible de fléchettes -->
-<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=20&h=20&fit=crop" alt="Target" />
-
-<!-- Option 4 : Target avec flèche -->
-<img src="https://images.unsplash.com/photo-1553877522-43269d4ea984?w=20&h=20&fit=crop" alt="Target" />
-
-<!-- Option 5 : Cible concentrique -->
-<img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=20&h=20&fit=crop" alt="Target" />
-
-<!-- Option 6 : Bullseye coloré -->
-<img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?w=20&h=20&fit=crop" alt="Target" />
-
-<!-- Option 7 : Cible d'archerie -->
-<img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?w=20&h=20&fit=crop" alt="Target" />
-
-<!-- Option 8 : Target moderne -->
-<img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=20&h=20&fit=crop" alt="Target" />
-
-<!-- Option 9 : Cible géométrique -->
-<img src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=20&h=20&fit=crop" alt="Target" />
-
-<!-- Option 10 : Bullseye 3D -->
-<img src="https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=20&h=20&fit=crop" alt="Target" />
----
 
 ### [Projet 3 – Requêtes SQL et création de BDD](./Projet%2003%20–%20Requ%C3%AAtes%20SQL%20et%20cr%C3%A9ation%20de%20BDD/)  
 📌 Création d’une base relationnelle, requêtes SQL, normalisation 3NF.  
