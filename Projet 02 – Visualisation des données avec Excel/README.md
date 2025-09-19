@@ -7,6 +7,7 @@
 ## Contexte et objectif
 
 **Client fictif :** Primero Bank
+<br>
 **Objectif :** Analyser les données clients afin d'identifier les
 profils à risque de départ et proposer des actions de rétention.
 - Segmentation des clients en fonction des comportements.
@@ -15,15 +16,14 @@ profils à risque de départ et proposer des actions de rétention.
 
 ## Livrables du projet
 
-    Primero-Bank-Analytics/
+    
     ├── rapport_analyse.pdf        # Profiling, analyses statistiques, scoring
-    ├── presentation.pptx          # Restitution exécutive et recommandations
-    └── excel-analytics/           # Tableaux croisés dynamiques et dashboard
+    ├── support_presentation.pptx  # Restitution exécutive et recommandations
+    
 
--   **Rapport analytique :** profils de churn et insights
-    comportementaux.
--   **Dashboard Excel :** indicateurs de churn, filtres interactifs,
+-   **Rapport analytique :** profils des clients, indicateurs de retention, filtres interactifs,
     heatmaps.
+
 -   **Présentation :** synthèse pour les décideurs, plan d'action de
     rétention.
 
@@ -45,8 +45,6 @@ profils à risque de départ et proposer des actions de rétention.
 
 -   Identification de 3 segments principaux responsables de 80 % des pertes clients.
 -   Détection de signaux prédictifs fiables (ROC AUC = 0,82).
--   Plan d'action ciblé validé par la direction, ROI estimé à +2,3
-    M€/an.
 
 ---
 <div align="center">
