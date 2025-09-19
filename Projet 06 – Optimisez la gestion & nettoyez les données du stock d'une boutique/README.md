@@ -6,49 +6,47 @@
 
 ## Contexte et objectif
 
-**Client fictif :** BottleNeck\
+**Client fictif :** BottleNeck
 **Objectif :** Améliorer la qualité et la fiabilité des données issues
-de l'ERP, du site e-commerce et de l'inventaire afin d'optimiser :\
-- La vision des stocks et des ventes par segment.\
-- Les décisions d'approvisionnement.\
+de l'ERP, du site e-commerce et de l'inventaire afin d'optimiser :
+- La vision des stocks et des ventes par segment.
+- Les décisions d'approvisionnement.
 - La rentabilité globale de l'activité.
 
 ## Livrables du projet
 
-    BottleNeck-DataQuality-Solution/
-    ├── notebook_data_quality.ipynb   # Pipeline de nettoyage et consolidation
-    ├── presentation_codir.pdf        # Restitution et recommandations
-    ├── data/                         # Données sources et tables nettoyées
-    └── rapports_qualite/             # Rapports d’audit automatisés
+    
+    ├── notebook.ipynb   # Pipeline de nettoyage et consolidation
+    ├── presentation.pdf        # Restitution et recommandations
 
 -   **Notebook d'analyse :** audit qualité, nettoyage et consolidation
-    multi-sources.\
--   **Rapports d'audit :** scoring avant/après transformation.\
+    multi-sources.
+
 -   **Présentation :** recommandations d'évolution et impacts attendus.
 
 ## Méthodologie
 
 1.  **Audit et profilage des données :** complétude, cohérence,
-    détection des doublons.\
+    détection des doublons.
 2.  **Nettoyage et standardisation :** normalisation formats, imputation
-    valeurs manquantes.\
+    valeurs manquantes.
 3.  **Consolidation :** jointures multi-sources et création d'un
-    référentiel produits unique.\
+    référentiel produits unique.
 4.  **Analyses business :** rotation des stocks, rentabilité par
     segment, saisonnalité.
 
 ## Points techniques
 
--   Python / Pandas pour l'automatisation du pipeline de nettoyage.\
--   Détection d'anomalies par méthodes statistiques.\
+-   Python / Pandas pour l'automatisation du pipeline de nettoyage.
+-   Détection d'anomalies par méthodes statistiques.
 -   Génération de rapports automatisés de data quality.
 
 ## Résultats obtenus
 
--   Taux de complétude des données passé de 67 % à 94 %.\
+-   Taux de complétude des données passé de 67 % à 94 %.
 -   Élimination de 600+ doublons produits et correction des prix
-    incohérents.\
--   Réduction de 75 % du temps d'analyse des stocks.\
+    incohérents.
+-   Réduction de 75 % du temps d'analyse des stocks.
 -   Identification de 187 k€ de surstock et recommandations pour
     optimiser l'approvisionnement.
 
