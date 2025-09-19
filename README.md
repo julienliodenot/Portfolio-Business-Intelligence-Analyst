@@ -20,7 +20,8 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
 ### [Projet 1 – Démarrage & posture BI Analyst](./Projet%2001%20–%20Démarrage%20&%20posture%20BI%20Analyst/)  
 <img src="https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=20&h=20&fit=crop" alt="Pin" />Fiche de formation, découverte du métier, auto-évaluation des soft skills.  
 <img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=20&h=20&fit=crop" alt="Target" />**Compétences :** organisation, définition d’objectifs, collaboration mentorale.  
-
+<img src="https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=20&h=20&fit=crop" alt="Pin" /> **Texte avec punaise**
+<img src="https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=20&h=20&fit=crop" alt="Target" /> **Texte avec cible**
 ---
 
 ### [Projet 2 – Visualisation des données avec Excel](./Projet%2002%20–%20Visualisation%20des%20donn%C3%A9es%20avec%20Excel/)  
