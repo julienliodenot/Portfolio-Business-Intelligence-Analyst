@@ -17,7 +17,7 @@ potentiel d'investissement immobilier à Paris.
 ## Livrables du projet
 
     ├── notebook.ipynb       # Analyse exploratoire et modélisation
-    ├── presentation.pptx  # Restitution synthétique
+    ├── presentation.pptx    # Restitution synthétique
 
 -   **Notebook d'analyse :** exploration des données, régression
     linéaire, clustering K-Means.
