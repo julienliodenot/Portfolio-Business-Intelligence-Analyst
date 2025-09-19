@@ -18,8 +18,8 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
 ## 🚀 Projets
 
 ### [Projet 1 – Démarrage & posture BI Analyst](./Projet%2001%20–%20Démarrage%20&%20posture%20BI%20Analyst/)  
-📌 Fiche de formation, découverte du métier, auto-évaluation des soft skills.  
-🎯 **Compétences :** organisation, définition d’objectifs, collaboration mentorale.  
+<img src="URL_DE_L_IMAGE_POUR_PIN" alt="Pin" width="20" height="20"/>Fiche de formation, découverte du métier, auto-évaluation des soft skills.  
+<img src="URL_DE_L_IMAGE_POUR_TARGET" alt="Target" width="20" height="20"/>**Compétences :** organisation, définition d’objectifs, collaboration mentorale.  
 
 ---
 
