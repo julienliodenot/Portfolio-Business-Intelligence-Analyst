@@ -17,7 +17,7 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
 
 ## 🚀 Projets
 
-### [Projet 1 – Démarrage & posture BI Analyst](#)  
+### [Projet 1 – Démarrage & posture BI Analyst](./Projet%2001%20–%20Démarrage%20&%20posture%20BI%20Analyst/)  
 📌 Fiche de formation, découverte du métier, auto-évaluation des soft skills.  
 🎯 **Compétences :** organisation, définition d’objectifs, collaboration mentorale.  
 
@@ -83,8 +83,6 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
 - Les **sources de données** utilisées (si publiques)  
 - Les **notebooks, scripts SQL, dashboards Power BI/Tableau**  
 - La **documentation** et les **présentations associées**  
-
-👉 Les liens GitHub seront ajoutés au fur et à mesure de la mise en ligne.
 
 ---
 
