@@ -44,7 +44,7 @@ profils à risque de départ et proposer des actions de rétention.
 ## Résultats obtenus
 
 -   Identification de 3 segments principaux responsables de 80 % des pertes clients.
--   Détection de signaux prédictifs fiables (ROC AUC = 0,82).
+-   Détection de signaux prédictifs fiables.
 
 ---
 <div align="center">

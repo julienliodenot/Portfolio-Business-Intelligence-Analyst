@@ -1,7 +1,7 @@
 # Projet 3 -- Conception et implémentation d'une base de données relationnelle
 
 <div align="center">
-<img src="https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=800&h=300&fit=crop" alt="Database Design and SQL Development" />
+<img src="https://images.unsplash.com/photo-1639322537228-f710d846310a?w=800&h=300&fit=crop" alt="Database Design and SQL Development" />
 </div>
 
 ## Contexte et objectif
@@ -16,12 +16,11 @@ métier.
 
 ## Livrables du projet
 
-    Database-Foundation-Project/
-    ├── dictionnaire_donnees.pdf       # Spécifications complètes du modèle
+    
+    ├── document technique.pdf         # Spécifications techniques complètes
     ├── schema_relationnel.jpg         # Modèle relationnel 3NF
-    ├── code_creation_tables.sql       # Scripts DDL et contraintes
-    ├── requetes_et_resultats.pdf      # Requêtes business et validations
-    └── database-assets/               # Jeux de données et scripts de test
+    ├── Liste.docx                     # Requêtes business et validations
+    ├── méthodologie.pdf               # présentation de la méthodologie suivie
 
 -   **Dictionnaire de données :** définition des entités, attributs et
     cardinalités.
