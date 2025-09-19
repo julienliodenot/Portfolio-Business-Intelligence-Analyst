@@ -17,7 +17,7 @@ de l'ERP, du site e-commerce et de l'inventaire afin d'optimiser :
 
     
     ├── notebook.ipynb   # Pipeline de nettoyage et consolidation
-    ├── presentation.pdf        # Restitution et recommandations
+    ├── presentation.pptx        # Restitution et recommandations
 
 -   **Notebook d'analyse :** audit qualité, nettoyage et consolidation
     multi-sources.

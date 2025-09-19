@@ -1,4 +1,4 @@
-# Projet 7 -- Tableau de bord de pilotage de projets (Sanitoral)
+# Projet 7 -- Tableau de bord de pilotage de projets
 
 <div align="center">
   <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=300&fit=crop" alt="Project Management Dashboard" />
@@ -16,16 +16,15 @@ projet.
 
 ## Livrables du projet
 
-    Sanitoral-Project-Control/
     ├── tableau_bord.pbix          # Dashboard Power BI
     ├── support-presentation.pdf   # Présentation de l'architecture et des étapes
-    ├── documentation.pdf          # Guide d’utilisation et d’évolution
 
 -   **Dashboard Power BI :** suivi multiprojet avec indicateurs clés
     (avancement, budget, ressources).
--   **Documentation :** description du modèle de données, des
+
+-   **Présentation :** description du modèle de données, des
     transformations (Power Query) et des principales mesures DAX.
--   **Présentation :** synthèse de la démarche et recommandations pour
+	synthèse de la démarche et recommandations pour
     l'entreprise.
 
 ## Méthodologie
@@ -46,7 +45,7 @@ projet.
 -   **DAX :** mesures pour calculer l'avancement, le reste à faire et la
     projection budgétaire.
 -   **Design UX :** respect des principes de lisibilité et mise en avant
-    des alertes (vert / orange / rouge).
+    des alertes.
 
 ## Résultats obtenus
 
