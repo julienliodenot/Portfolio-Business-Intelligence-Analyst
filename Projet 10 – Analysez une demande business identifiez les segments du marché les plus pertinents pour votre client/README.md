@@ -6,54 +6,53 @@
 
 ## Contexte et objectif
 
-**Client fictif :** UOI Games\
+**Client fictif :** UOI Games
+<BR>
 **Objectif :** Identifier le segment de marché le plus pertinent pour le
-lancement d'un jeu AAA et proposer une stratégie de positionnement.\
-- Analyse des tendances de ventes par plateforme et genre.\
-- Diagnostic SWOT et PESTEL du marché et de l'entreprise.\
+lancement d'un jeu AAA et proposer une stratégie de positionnement.
+- Analyse des tendances de ventes par plateforme et genre.
+- Diagnostic SWOT et PESTEL du marché et de l'entreprise.
 - Recommandations chiffrées pour orienter le développement et le
 lancement.
 
 ## Livrables du projet
 
-    Projet-10-UOI-Games/
+    Projet-10-UOI-Games
     ├── analyses.ipynb               # Analyses quantitatives et segmentation
-    ├── presentation_strategique.pptx # Restitution pour le comité de direction
-    ├── data/                        # Jeux de données sources
-    └── README.md                    # Documentation projet
+    ├── presentation.pptx            # Restitution pour le comité de direction
+
 
 -   **Notebook d'analyse :** exploration des données de ventes,
-    corrélations, segmentation.\
+    corrélations, segmentation.
 -   **Présentation stratégique :** matrices SWOT et PESTEL, synthèse des
-    insights et recommandations.\
--   **Données nettoyées :** datasets enrichis avec tendances marché
-    récentes.
+    insights et recommandations.
+
 
 ## Méthodologie
 
 1.  **Collecte et préparation des données :** Kaggle, VGChartz, SELL,
-    PEGI.\
+    PEGI.
 2.  **Analyse exploratoire :** tendances par genre et plateforme,
-    corrélations multi-variées.\
+    corrélations multi-variées.
 3.  **Diagnostic stratégique :** SWOT et PESTEL, benchmarking des
-    concurrents.\
+    concurrents.
 4.  **Recommandations :** choix du segment cible et stratégie de
     lancement (roadmap).
 
 ## Points techniques
 
--   Nettoyage et normalisation des datasets.\
--   Visualisations (bar charts, heatmaps, scatter plots interactifs).\
--   Tests de corrélation et analyses statistiques.\
+-   Nettoyage et normalisation des datasets.
+-   Visualisations (bar charts, heatmaps, scatter plots interactifs).
+-   Tests de corrélation et analyses statistiques.
 -   Synthèse des résultats en support de décision pour le comité
     exécutif.
 
 ## Résultats obtenus
 
 -   Identification d'un segment prioritaire avec potentiel estimé entre
-    15 et 25 M€.\
+    15 et 25 M€.
 -   Définition d'un concept de jeu aligné avec les préférences du marché
-    cible.\
+    cible.
 -   Élaboration d'une stratégie de lancement avec jalons et projections
     financières.
 
