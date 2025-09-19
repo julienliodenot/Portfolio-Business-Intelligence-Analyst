@@ -7,6 +7,7 @@
 ## Contexte et objectif
 
 **Client fictif :** Sanitoral
+<br>
 **Objectif :** Développer un tableau de bord interactif dans **Power
 BI** permettant :
 - Le suivi en temps réel de l'avancement de plusieurs projets.
