@@ -15,8 +15,37 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
 
 ---
 
-## diagramme de gantt du projet
+# Présentation du Projet Portfolio
 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="./Livrables/Carte%20Mentale.jpg">
+          <img src="./Livrables/Carte%20Mentale.jpg" alt="Carte Mentale" width="200"/><br/>
+          <strong>Carte Mentale</strong>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="./Livrables/Analyse%20des%20besoins%20métiers.docx">
+          📄<br/>
+          <strong>Analyse des besoins métiers</strong>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <a href="./Livrables/cahier%20des%20charges.pptx">
+          📊<br/>
+          <strong>Cahier des charges</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+
+## Diagramme de gantt du projet
+Cliquez sur la miniature ci dessous pour acceder au Dashboard
 
 <a href="https://public.tableau.com/app/profile/julien.liodenot/viz/Diagramme_Gantt/DiagrammedeGantt">
           <img src="./Livrables/gantt_miniature.jpg" alt="Voir les Dashboards" width="600"/></a>
