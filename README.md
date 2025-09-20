@@ -21,19 +21,19 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="./Livrables/Carte%20Mentale.jpg">
-          <img src="./Livrables/Carte%20Mentale.jpg" alt="Carte Mentale" width="200"/><br/>
+        <a href="./Livrables/1-Carte Mentale.jpg">
+          <img src="./Livrables/1-Carte Mentale.jpg" alt="Carte Mentale" width="200"/><br/>
           <strong>Carte Mentale</strong>
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="./Livrables/Analyse%20des%20besoins%20métiers.docx">
+        <a href="./Livrables/2-Analyse des besoins métiers.docx">
           📄<br/>
           <strong>Analyse des besoins métiers</strong>
         </a>
       </td>
       <td align="center" width="33%">
-        <a href="./Livrables/cahier%20des%20charges.pptx">
+        <a href="./Livrables/3-cahier des charges.pptx">
           📊<br/>
           <strong>Cahier des charges</strong>
         </a>
