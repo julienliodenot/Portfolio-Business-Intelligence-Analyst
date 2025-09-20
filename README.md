@@ -28,13 +28,13 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
       </td>
       <td align="center" width="33%">
         <a href="./Livrables/2-Analyse des besoins métiers.docx">
-          <img src="./Livrables/logo_wrd.png" alt="Carte Mentale" width="200"/><br/>
+          <img src="./Livrables/logo_wrd.png" alt="besoin metier" width="200"/><br/>
           <strong>Analyse des besoins métiers</strong>
         </a>
       </td>
       <td align="center" width="33%">
         <a href="./Livrables/3-cahier des charges.pptx">
-          <img src="./Livrables/logo_ppt.png" alt="Carte Mentale" width="200"/><br/>
+          <img src="./Livrables/logo_ppt.png" alt="Cahier des charges" width="200"/><br/>
           <strong>Cahier des charges</strong>
         </a>
       </td>
@@ -51,6 +51,16 @@ Cliquez sur la miniature ci dessous pour acceder au Dashboard
           <img src="./Livrables/gantt_miniature.jpg" alt="Voir les Dashboards" width="600"/></a>
 
 ##  Projets
+
+---
+###  Organisation du portfolio
+Chaque projet est disponible dans un **dossier GitHub dédié** avec :  
+- Le **contexte** et les **objectifs** du projet  
+- Les **sources de données** utilisées (si publiques)  
+- Les **notebooks, scripts SQL, dashboards Power BI/Tableau**  
+- La **documentation** et les **présentations associées**  
+
+---
 
 ### [Projet 1 – Démarrage & posture BI Analyst](./Projet%2001%20–%20Démarrage%20&%20posture%20BI%20Analyst/)  
 <img src="https://www.pinclipart.com/picdir/big/528-5282914_transparent-pin-clipart-red-pin-icon-png-download.png" alt="Pin" width="20" height="20"/> Fiche de formation, découverte du métier, auto-évaluation des soft skills.  
@@ -113,14 +123,6 @@ Cliquez sur la miniature ci dessous pour acceder au Dashboard
 
 ---
 
-##  Organisation du portfolio
-Chaque projet est disponible dans un **dossier GitHub dédié** avec :  
-- Le **contexte** et les **objectifs** du projet  
-- Les **sources de données** utilisées (si publiques)  
-- Les **notebooks, scripts SQL, dashboards Power BI/Tableau**  
-- La **documentation** et les **présentations associées**  
-
----
 
 ## Livrables du Projet
 
@@ -159,13 +161,12 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
         </a>
       </td>
     </tr>
-    <!-- Nouvelle ligne -->
     <tr>
       <td align="center" colspan="2">
         <h3> Guide de création de graphiques avec Tableau</h3>
         <p>Cliquez ci-dessous pour télécharger le guide complet.</p>
         <a href="./Livrables/Guide%20de%20création%20de%20graphiques%20avec%20Tableau.docx">
-          📄 <strong>Ouvrir le document</strong>
+          <img src="./Livrables/logo_wrd.png" alt="besoin metier" width="200"/> <strong>Ouvrir le document</strong>
         </a>
       </td>
     </tr>
