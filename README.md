@@ -28,13 +28,13 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
       </td>
       <td align="center" width="33%">
         <a href="./Livrables/2-Analyse des besoins métiers.docx">
-          📄<br/>
+          <img src="./Livrables/logo_wrd.png" alt="Carte Mentale" width="200"/><br/>
           <strong>Analyse des besoins métiers</strong>
         </a>
       </td>
       <td align="center" width="33%">
         <a href="./Livrables/3-cahier des charges.pptx">
-          📊<br/>
+          <img src="./Livrables/logo_ppt.png" alt="Carte Mentale" width="200"/><br/>
           <strong>Cahier des charges</strong>
         </a>
       </td>
