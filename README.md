@@ -159,8 +159,19 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
         </a>
       </td>
     </tr>
+    <!-- Nouvelle ligne -->
+    <tr>
+      <td align="center" colspan="2">
+        <h3> Guide de création de graphiques avec Tableau</h3>
+        <p>Cliquez ci-dessous pour télécharger le guide complet.</p>
+        <a href="./Livrables/Guide%20de%20création%20de%20graphiques%20avec%20Tableau.docx">
+          📄 <strong>Ouvrir le document</strong>
+        </a>
+      </td>
+    </tr>
   </table>
 </p>
+
 
 
 
