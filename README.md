@@ -14,11 +14,12 @@ Bienvenue sur mon portfolio de projets en **Business Intelligence, Data Analytic
 Vous trouverez ici une sélection de projets issus de mon parcours de formation et d’expériences pratiques, allant de la **visualisation de données** à la **modélisation prédictive en Python**, en passant par la **gestion de bases de données SQL** et l’**industrialisation avec Knime et Power BI**.
 
 ---
+
 ## diagramme de gantt du projet
 
 
 <a href="https://public.tableau.com/app/profile/julien.liodenot/viz/Diagramme_Gantt/DiagrammedeGantt">
-          <img src="./Livrables/gantt_miniature.jpg" alt="Voir les Dashboards" width="600"/>
+          <img src="./Livrables/gantt_miniature.jpg" alt="Voir les Dashboards" width="600"/></a>
 
 ##  Projets
 
