@@ -166,7 +166,7 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
         <h3> Guide de création de graphiques avec Tableau</h3>
         <p>Cliquez ci-dessous pour télécharger le guide complet.</p>
         <a href="./Livrables/Guide%20de%20création%20de%20graphiques%20avec%20Tableau.docx">
-          <img src="./Livrables/logo_wrd.png" alt="besoin metier" width="200"/> <strong>Ouvrir le document</strong>
+          <img src="./Livrables/logo_wrd.png" alt="Documentation" width="200"/>
         </a>
       </td>
     </tr>
