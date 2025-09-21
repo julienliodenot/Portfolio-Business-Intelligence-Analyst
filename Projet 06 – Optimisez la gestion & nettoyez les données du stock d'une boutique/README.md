@@ -7,6 +7,7 @@
 ## Contexte et objectif
 
 **Client fictif :** BottleNeck
+<BR>
 **Objectif :** Améliorer la qualité et la fiabilité des données issues
 de l'ERP, du site e-commerce et de l'inventaire afin d'optimiser :
 - La vision des stocks et des ventes par segment.
