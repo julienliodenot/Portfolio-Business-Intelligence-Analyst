@@ -130,7 +130,7 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
 <table>
  
   <tr>
-    <td align="center" width="50%" style="vertical-align: top;">
+    <td>
       <h3> Dashboards interactifs</h3>
       <p>Cliquez ci-dessous pour voir les deux dashboards publiés sur Tableau Public.<br/>
       (Copies également disponibles dans le répertoire <code>Livrables</code>.)</p>
@@ -138,7 +138,7 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
         <img src="./Livrables/img/dashboards_miniature.jpg" alt="Voir les Dashboards" width="300"/>
       </a>
     </td>
-    <td align="center" width="50%" style="vertical-align: top;">
+    <td>
       <h3> Vidéo de formation à Tableau Public</h3>
       <p>Cliquez ci-dessous pour accéder à la vidéo sur Loom.<br/>
       (Version MP4 également disponible dans le répertoire <code>Livrables</code>.)</p>
