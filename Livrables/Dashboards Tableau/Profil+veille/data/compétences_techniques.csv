@@ -1,0 +1,5 @@
+ID_comp;Skills;pcent_distribution;Niveau de compétence;Niveau actuel;Categorie
+1;Database;0,15;85;20;Données
+2;Data Science;0,25;75;30;Analyse & Modélisation
+3;Outils de Décisionnel;0,45;65;40;Visualisation & Reporting
+6;ETL;0,15;50;24;Préparation & Pipeline

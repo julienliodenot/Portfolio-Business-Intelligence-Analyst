@@ -1,0 +1,11 @@
+Methode;Description;Performance;Niveau;Source
+AutoML;Automatise le processus de création des modèles;8;Croissance;22
+Feature Engineering;Création transformation extraction sélection features;9;Mature;23
+Deep Learning;Réseaux neurones apprentissage profond;8;Mature;22
+Transformers;Architecture révolutionnaire NLP vision;9;Emergent;22
+XGBoost;Gradient boosting performances élevées;8;Mature;22
+Reinforcement Learning;Apprentissage par interaction environnement;7;Emergent;22
+Self-Supervised Learning;Apprentissage sans labels annotations;8;Emergent;22
+Few-Shot Learning;Généralisation avec peu d'exemples;7;Emergent;22
+Preprocessing Techniques;Nettoyage normalisation transformation données;9;Mature;24
+Bayesian ML;Quantification incertitude probabilités;6;Adopté;22

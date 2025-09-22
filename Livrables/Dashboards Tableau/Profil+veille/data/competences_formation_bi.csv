@@ -1,0 +1,11 @@
+Competence;Niveau_requis;Niveau_Actuel;Priorite;Evolution;Source
+SQL;10;8;Haute;Stable;60
+Python/R;10;5;Haute;Croissante;60
+Machine Learning;10;4;Haute;Croissante;60
+Cloud Platforms;10;2;Haute;Croissante;60
+Data Storytelling;10;5;Haute;Croissante;60
+Business Acumen;10;5;Haute;Stable;60
+Data Governance;10;5;Haute;Croissante;60
+Real-Time Analytics;5;5;Moyenne;Croissante;60
+Low-Code/No-Code;5;3;Moyenne;Croissante;60
+Data Ethics;10;5;Haute;Croissante;60
