@@ -127,7 +127,8 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
 ## Livrables du Projet
 
 <p>
-  <table>
+<table>
+ 
   <tr>
     <td align="center" width="50%" style="vertical-align: top;">
       <h3> Dashboards interactifs</h3>
@@ -144,6 +145,12 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
       <a href="https://www.loom.com/share/3bc89edc0bf74f6690a4ee4284048495">
         <img src="./Livrables/img/video_miniature.jpg" alt="Voir la vidéo" width="300"/>
       </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td></td> 
+    <td align="center" style="vertical-align: top;">
       <details>
         <summary>Détails de la vidéo</summary>
         <p>Dans cette vidéo (22 min), je vous montre pas à pas comment créer deux graphiques avancés avec <strong>Tableau Public</strong> :</p>
@@ -161,6 +168,7 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
       </details>
     </td>
   </tr>
+  
   <tr>
     <td align="center" colspan="2">
       <h3> Guide de création de graphiques avec Tableau</h3>
@@ -171,7 +179,6 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
     </td>
   </tr>
 </table>
-
 </p>
 
 
