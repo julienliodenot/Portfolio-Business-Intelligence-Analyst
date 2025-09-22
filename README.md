@@ -28,7 +28,7 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
       </td>
       <td align="center" width="33%">
         <a href="./Livrables/2-Analyse des besoins métiers.docx">
-          <img src="./Livrables/img/logo_wrd.png" alt="besoin metier" width="200"/><br/>
+          <img src="./Livrables/logo_wrd.png" alt="besoin metier" width="200"/><br/>
           <strong>Analyse des besoins métiers</strong>
         </a>
       </td>
@@ -129,22 +129,12 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
 <p align="center">
   <table>
     <tr>
-	
-	<td align="center" width="50%">
-        <h3> Dashboards interactifs</h3>
-        <p>Cliquez ci-dessous pour voir les deux dashboards publiés sur Tableau Public.<br/>
-        (Copies également disponibles dans le répertoire <code>Livrables</code>.)</p>
-        <a href="https://public.tableau.com/views/Profilveille_V2/Prsentation?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-          <img src="./Livrables/img/dashboards_miniature.jpg" alt="Voir les Dashboards" width="300"/>
-        </a>
-      </td>
-	  
       <td align="center" width="50%">
         <h3> Vidéo de formation à Tableau Public</h3>
         <p>Cliquez ci-dessous pour accéder à la vidéo sur Loom.<br/>
         (Version MP4 également disponible dans le répertoire <code>Livrables</code>.)</p>
         <a href="https://www.loom.com/share/3bc89edc0bf74f6690a4ee4284048495">
-          <img src="./Livrables/img/video_miniature.jpg" alt="Voir la vidéo" width="300"/>
+          <img src="./Livrables/video_miniature.jpg" alt="Voir la vidéo" width="300"/>
         </a>
         <details>
           <summary>Détails de la vidéo</summary>
@@ -162,13 +152,21 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
           </ul>
         </details>
       </td>
+      <td align="center" width="50%">
+        <h3> Dashboards interactifs</h3>
+        <p>Cliquez ci-dessous pour voir les deux dashboards publiés sur Tableau Public.<br/>
+        (Copies également disponibles dans le répertoire <code>Livrables</code>.)</p>
+        <a href="https://public.tableau.com/views/Profilveille_V2/Prsentation?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+          <img src="./Livrables/dashboards_miniature.jpg" alt="Voir les Dashboards" width="300"/>
+        </a>
+      </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         <h3> Guide de création de graphiques avec Tableau</h3>
         <p>Cliquez ci-dessous pour télécharger le guide complet.</p>
         <a href="./Livrables/Guide%20de%20création%20de%20graphiques%20avec%20Tableau.docx">
-          <img src="./Livrables/img/logo_wrd.png" alt="Documentation" width="200"/>
+          <img src="./Livrables/logo_wrd.png" alt="Documentation" width="200"/>
         </a>
       </td>
     </tr>
