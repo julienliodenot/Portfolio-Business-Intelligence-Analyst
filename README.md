@@ -126,7 +126,7 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
 
 ## Livrables du Projet
 
-<p align="center">
+<p>
   <table>
   <tr>
     <td align="center" width="50%" style="vertical-align: top;">
