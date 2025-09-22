@@ -17,7 +17,7 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
 
 # Présentation du Projet Portfolio
 
-<p align="center">
+<p align="right">
   <table>
     <tr>
       <td align="center" width="33%">
@@ -44,7 +44,7 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
 
 
 
-## Diagramme de gantt du projet
+## Diagramme de Gantt du projet
 Cliquez sur la miniature ci dessous pour acceder au Dashboard
 
 <a href="https://public.tableau.com/app/profile/julien.liodenot/viz/Diagramme_Gantt/DiagrammedeGantt">
@@ -130,7 +130,7 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
 <table>
  
   <tr>
-    <td>
+    <td align="center" width="50%" style="vertical-align: top;">
       <h3> Dashboards interactifs</h3>
       <p>Cliquez ci-dessous pour voir les deux dashboards publiés sur Tableau Public.<br/>
       (Copies également disponibles dans le répertoire <code>Livrables</code>.)</p>
@@ -138,7 +138,7 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
         <img src="./Livrables/img/dashboards_miniature.jpg" alt="Voir les Dashboards" width="300"/>
       </a>
     </td>
-    <td>
+    <td align="center" width="50%" style="vertical-align: top;">
       <h3> Vidéo de formation à Tableau Public</h3>
       <p>Cliquez ci-dessous pour accéder à la vidéo sur Loom.<br/>
       (Version MP4 également disponible dans le répertoire <code>Livrables</code>.)</p>
