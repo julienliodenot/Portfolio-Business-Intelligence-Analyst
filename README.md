@@ -134,16 +134,13 @@ Chaque projet est disponible dans un **dossier GitHub dédié** avec :
       <h3> Dashboards interactifs</h3>
       <p>Cliquez ci-dessous pour voir les deux dashboards publiés sur Tableau Public.<br/>
       (Copies également disponibles dans le répertoire <code>Livrables</code>.)</p>
-      
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
       <h3> Vidéo de formation à Tableau Public</h3>
       <p>Cliquez ci-dessous pour accéder à la vidéo sur Loom.<br/>
       (Version MP4 également disponible dans le répertoire <code>Livrables</code>.)</p>
-      
     </td>
   </tr>
-  
   <tr>
     <td><a href="https://public.tableau.com/views/Profilveille_V2/Prsentation?:language=fr-FR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
         <img src="./Livrables/img/dashboards_miniature.jpg" alt="Voir les Dashboards" width="300"/>
