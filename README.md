@@ -17,7 +17,7 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
 
 # Présentation du Projet Portfolio
 
-<p align="right">
+<p align="center">
   <table>
     <tr>
       <td align="center" width="33%">
