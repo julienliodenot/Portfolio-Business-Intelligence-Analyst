@@ -47,7 +47,7 @@ Vous trouverez ici une sélection de projets issus de mon parcours de formation 
 ## Diagramme de Gantt du projet
 Cliquez sur la miniature ci dessous pour acceder au Dashboard
 
-<a href="https://public.tableau.com/app/profile/julien.liodenot/viz/Diagramme_Gantt/DiagrammedeGantt">
+<a href="https://public.tableau.com/app/profile/julien.liodenot/viz/Diagramme_Gantt/Gantts">
           <img src="./Livrables/img/gantt_miniature.jpg" alt="Voir les Dashboards" width="600"/></a>
 
 ##  Projets
